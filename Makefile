@@ -9,36 +9,45 @@ MP3S = $(MSCX_FILES:.mscx=.mp3) $(MSCZ_FILES:.mscz=.mp3)
 JOB_OUTS = $(JOB_FILES:.json=.job)
 
 .PHONY: all
-all: $(PDFS) $(MP3S) $(JOB_OUTS)
+all:
+	mkdir -p chart-exports # Create the 'exports' subdirectory if it doesn't exist
 
-%.pdf: %.mscx
-	$(MSCORE) -o $@ $<
+	failures=()
 
-%.mp3: %.mscx
-	$(MSCORE) -o $@ $<
+	for file in musescore-charts/*.mscz; do
+		filename=$(basename "$file") # Extract the filename without the extension
 
-%.pdf: %.mscz
-	$(MSCORE) -o $@ $<
+		echo $filename
 
-%.mp3: %.mscz
-	$(MSCORE) -o $@ $<
+		output_file="chart-exports/${filename%.*}.pdf" # Replace the extension with '.pdf' and prepend 'chart-exports/'
+		flatpak run org.musescore.MuseScore -o "$output_file" "$file" # Run the 'mscore' command via flatpak with the updated output filename
 
-.SECONDARY:%.job
-%.job: %.json
-# Create a file at the beginning of the job
-# Add to it a list of any files which were created in this
-# directory after the job is done running. This allows for
-# a full clean of the directory
-#
-# CAVEAT: This does not work well for parrallel builds using make
-	touch $@.tmp
-	cd $(dir $(abspath $<)) && $(MSCORE) -j $(notdir $<)
-	find "$(dir $(abspath $<))" -type f -newer "$@.tmp" >> $@
-	rm $@.tmp
+		if [ ! -f "$output_file" ]; then
+		failures+=("$filename") # Add the filename to the failure array
+		echo "failure!"
+		fi
+	done
 
-.PHONY: clean
-clean:
-# Remove all files referenced by job files
-	-for job_file in ${JOB_OUTS}; do cat $$job_file | xargs rm; done
-	-rm -r $(JOB_OUTS)
-	-rm -r $(PDFS) $(MP3S)
+	# Check if the array is not empty
+	if [ ${#failures[@]} -gt 0 ]; then
+		# Print the filenames in the array
+		echo "The following files failed to export:"
+		for filename in "${failures[@]}"; do
+			echo "$filename"
+		done
+	else
+		echo "All the files exported successfully"
+	fi
+
+# .SECONDARY:%.job
+# %.job: %.json
+# # Create a file at the beginning of the job
+# # Add to it a list of any files which were created in this
+# # directory after the job is done running. This allows for
+# # a full clean of the directory
+# #
+# # CAVEAT: This does not work well for parrallel builds using make
+# 	touch $@.tmp
+# 	cd $(dir $(abspath $<)) && $(MSCORE) -j $(notdir $<)
+# 	find "$(dir $(abspath $<))" -type f -newer "$@.tmp" >> $@
+# 	rm $@.tmp
