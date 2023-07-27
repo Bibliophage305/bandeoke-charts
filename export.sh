@@ -1,16 +1,16 @@
 #!/bin/bash
 
-mkdir -p exports # Create the 'exports' subdirectory if it doesn't exist
+mkdir -p chart-exports # Create the 'exports' subdirectory if it doesn't exist
 
 failures=()
 
-for file in *.mscz; do
+for file in musescore-charts/*.mscz; do
   filename=$(basename "$file") # Extract the filename without the extension
 
   echo $filename
 
-  output_file="exports/${filename%.*}.pdf" # Replace the extension with '.pdf' and prepend 'exports/'
-  mscore -o "$output_file" "$file" > /dev/null 2>&1 # Run the 'mscore' command with the updated output filename
+  output_file="chart-exports/${filename%.*}.pdf" # Replace the extension with '.pdf' and prepend 'exports/'
+  flatpak run org.musescore.MuseScore -o "$output_file" "$file" # Run the 'mscore' command with the updated output filename
 
   if [ ! -f "$output_file" ]; then
     failures+=("$filename") # Add the filename to the failure array
