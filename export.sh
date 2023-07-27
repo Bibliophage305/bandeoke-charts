@@ -1,7 +1,5 @@
 #!/bin/bash
 
-su -l
-
 mkdir -p chart-exports # Create the 'exports' subdirectory if it doesn't exist
 
 failures=()
