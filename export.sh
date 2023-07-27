@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mkdir -p chart-exports # Create the 'exports' subdirectory if it doesn't exist
+mkdir -p temp-exports
 
 failures=()
 
@@ -9,7 +9,7 @@ for file in musescore-charts/*.mscz; do
 
   echo $filename
 
-  output_file="chart-exports/${filename%.*}.pdf" # Replace the extension with '.pdf' and prepend 'exports/'
+  output_file="temp-exports/${filename%.*}.pdf" # Replace the extension with '.pdf' and prepend 'exports/'
   flatpak run org.musescore.MuseScore -o "$output_file" "$file" # Run the 'mscore' command with the updated output filename
 
   if [ ! -f "$output_file" ]; then
@@ -28,3 +28,6 @@ if [ ${#failures[@]} -gt 0 ]; then
 else
   echo "All the files exported successfully"
 fi
+
+rm -rf chart-exports
+mv temp-export chart-exports
