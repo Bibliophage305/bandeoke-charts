@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mkdir -p temp-exports
+mkdir temp-exports
 
 failures=()
 
@@ -28,6 +28,3 @@ if [ ${#failures[@]} -gt 0 ]; then
 else
   echo "All the files exported successfully"
 fi
-
-rm -rf chart-exports
-mv temp-export chart-exports

@@ -23,7 +23,11 @@ jobs:
         with:
           working-directory: ./
           run: bash export.sh
-      - name: Add Commit and Push
+      - name: Tidy
+        run: |
+          rm -rf chart-exports
+          mv temp-exports chart-exports
+      - name: Commit and push
         run: |
           git config --global user.email "me@chrishampson.co.uk"
           git config --global user.name "MuseScore Export Bot"
