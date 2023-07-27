@@ -43,7 +43,7 @@ jobs:
                 echo $filename
 
                 output_file="chart-exports/${filename%.*}.pdf" # Replace the extension with '.pdf' and prepend 'chart-exports/'
-                flatpak run org.musescore.MuseScore -o "$output_file" "$file" > /dev/null 2>&1 # Run the 'mscore' command via flatpak with the updated output filename
+                flatpak run org.musescore.MuseScore -o "$output_file" "$file" # Run the 'mscore' command via flatpak with the updated output filename
 
                 if [ ! -f "$output_file" ]; then
                     failures+=("$filename") # Add the filename to the failure array
