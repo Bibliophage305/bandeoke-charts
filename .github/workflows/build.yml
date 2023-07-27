@@ -64,7 +64,8 @@ jobs:
         #         fi
         with:
           working-directory: ./ #optional
-          run: make MSCORE="flatpak run org.musescore.MuseScore"
+          # run: make MSCORE="flatpak run org.musescore.MuseScore"
+          run: bash export.sh
       - name: Add Commit and Push
         run: |
           git config --global user.email "me@chrishampson.co.uk"
