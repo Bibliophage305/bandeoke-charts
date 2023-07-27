@@ -13,24 +13,30 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - name: Install MuseScore
-        run: |
-          sudo apt install flatpak
-          sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
-          sudo flatpak install -y --noninteractive flathub org.musescore.MuseScore
-      - name: Export to PDFs
-        uses: coactions/setup-xvfb@v1
+      - name: Merge into exports
+        uses: devmasx/merge-branch@master
         with:
-          working-directory: ./
-          run: bash export.sh
-      - name: Tidy
-        run: |
-          rm -rf chart-exports
-          mv temp-exports chart-exports
-      - name: Commit and push
-        run: |
-          git config --global user.email "me@chrishampson.co.uk"
-          git config --global user.name "MuseScore Export Bot"
-          git add .
-          git commit -am "Updating pdfs"
-          git push
+          type: now
+          target_branch: exports
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Install MuseScore
+      #   run: |
+      #     sudo apt install flatpak
+      #     sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+      #     sudo flatpak install -y --noninteractive flathub org.musescore.MuseScore
+      # - name: Export to PDFs
+      #   uses: coactions/setup-xvfb@v1
+      #   with:
+      #     working-directory: ./
+      #     run: bash export.sh
+      # - name: Tidy
+      #   run: |
+      #     rm -rf chart-exports
+      #     mv temp-exports chart-exports
+      # - name: Commit and push
+      #   run: |
+      #     git config --global user.email "me@chrishampson.co.uk"
+      #     git config --global user.name "MuseScore Export Bot"
+      #     git add .
+      #     git commit -am "Updating pdfs"
+      #     git push
