@@ -32,35 +32,36 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run Makefile to make PDFs
         uses: coactions/setup-xvfb@v1
-        run: |
-            mkdir -p chart-exports # Create the 'exports' subdirectory if it doesn't exist
+        with:
+            run: |
+                mkdir -p chart-exports # Create the 'exports' subdirectory if it doesn't exist
 
-            failures=()
+                failures=()
 
-            for file in musescore-charts/*.mscz; do
-                filename=$(basename "$file") # Extract the filename without the extension
+                for file in musescore-charts/*.mscz; do
+                    filename=$(basename "$file") # Extract the filename without the extension
 
-                echo $filename
+                    echo $filename
 
-                output_file="chart-exports/${filename%.*}.pdf" # Replace the extension with '.pdf' and prepend 'chart-exports/'
-                flatpak run org.musescore.MuseScore -o "$output_file" "$file" # Run the 'mscore' command via flatpak with the updated output filename
+                    output_file="chart-exports/${filename%.*}.pdf" # Replace the extension with '.pdf' and prepend 'chart-exports/'
+                    flatpak run org.musescore.MuseScore -o "$output_file" "$file" # Run the 'mscore' command via flatpak with the updated output filename
 
-                if [ ! -f "$output_file" ]; then
-                    failures+=("$filename") # Add the filename to the failure array
-                    echo "failure!"
-                fi
-            done
-
-            # Check if the array is not empty
-            if [ ${#failures[@]} -gt 0 ]; then
-                # Print the filenames in the array
-                echo "The following files failed to export:"
-                for filename in "${failures[@]}"; do
-                    echo "$filename"
+                    if [ ! -f "$output_file" ]; then
+                        failures+=("$filename") # Add the filename to the failure array
+                        echo "failure!"
+                    fi
                 done
-            else
-                echo "All the files exported successfully"
-            fi
+
+                # Check if the array is not empty
+                if [ ${#failures[@]} -gt 0 ]; then
+                    # Print the filenames in the array
+                    echo "The following files failed to export:"
+                    for filename in "${failures[@]}"; do
+                        echo "$filename"
+                    done
+                else
+                    echo "All the files exported successfully"
+                fi
         # with:
         #   working-directory: ./ #optional
         #   run: make MSCORE="flatpak run org.musescore.MuseScore"
