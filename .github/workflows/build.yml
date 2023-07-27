@@ -31,7 +31,7 @@ jobs:
           sudo flatpak install -y --noninteractive flathub org.musescore.MuseScore
       # Runs a single command using the runners shell
       - name: Run Makefile to make PDFs
-        # uses: coactions/setup-xvfb@v1
+        uses: coactions/setup-xvfb@v1
         run: |
             mkdir -p chart-exports # Create the 'exports' subdirectory if it doesn't exist
 
