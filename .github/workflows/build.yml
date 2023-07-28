@@ -37,7 +37,7 @@ jobs:
           rm -rf chart-exports
           mv temp-exports chart-exports
       - name: Make zip of charts
-      - uses: vimtor/action-zip@v1
+        uses: vimtor/action-zip@v1
         with:
           files: chart-exports/
           dest: chart-exports.zip
