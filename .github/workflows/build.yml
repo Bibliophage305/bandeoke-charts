@@ -36,6 +36,11 @@ jobs:
         run: |
           rm -rf chart-exports
           mv temp-exports chart-exports
+      - name: Make zip of charts
+        uses: vimtor/action-zip@v1
+        with:
+          files: chart-exports/
+          dest: chart-exports.zip
       - name: Commit and push
         run: |
           git config --global user.email "me@chrishampson.co.uk"
