@@ -1,5 +1,4 @@
-# Anti-Hero
-## Taylor Swift
+# Anti-Hero - Taylor Swift
 
 I have this thing where I get older but just never wiser\
 Midnights become my afternoons\
