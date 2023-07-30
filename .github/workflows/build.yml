@@ -32,21 +32,28 @@ jobs:
         with:
           working-directory: ./
           run: bash export-charts.sh
+      - name: Export lyrics to PDFs
+        uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: raw-lyrics
+          output_dir: temp-lyrics
+          build_html: false
       - name: Tidy
         run: |
           rm -rf chart-exports
           mv temp-exports chart-exports
+          rm -rf lyric-exports
+          mv temp-lyrics lyric-exports
       - name: Make zip of charts
         uses: vimtor/action-zip@v1
         with:
           files: chart-exports/
           dest: chart-exports.zip
-      - name: Export lyrics to PDFs
-        uses: baileyjm02/markdown-to-pdf@v1
+      - name: Make zip of lyrics
+        uses: vimtor/action-zip@v1
         with:
-          input_dir: raw-lyrics
-          output_dir: lyrics-exports
-          # build_html: false
+          files: lyric-exports/
+          dest: lyric-exports.zip
       - name: Commit and push
         run: |
           git config --global user.email "me@chrishampson.co.uk"
