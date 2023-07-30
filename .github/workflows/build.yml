@@ -31,7 +31,7 @@ jobs:
         uses: coactions/setup-xvfb@v1
         with:
           working-directory: ./
-          run: bash export.sh
+          run: bash export-charts.sh
       - name: Tidy
         run: |
           rm -rf chart-exports
