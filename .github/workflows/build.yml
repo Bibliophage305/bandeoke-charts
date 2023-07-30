@@ -31,7 +31,7 @@ jobs:
         uses: coactions/setup-xvfb@v1
         with:
           working-directory: ./
-          run: bash export.sh
+          run: bash export-charts.sh
       - name: Tidy
         run: |
           rm -rf chart-exports
@@ -46,7 +46,7 @@ jobs:
         with:
           input_dir: raw-lyrics
           output_dir: lyrics-exports
-          build_html: false
+          # build_html: false
       - name: Commit and push
         run: |
           git config --global user.email "me@chrishampson.co.uk"
