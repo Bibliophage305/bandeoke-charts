@@ -46,7 +46,7 @@ jobs:
         with:
           input_dir: raw-lyrics
           output_dir: lyrics-exports
-          build_html: false
+          # build_html: false
       - name: Commit and push
         run: |
           git config --global user.email "me@chrishampson.co.uk"
