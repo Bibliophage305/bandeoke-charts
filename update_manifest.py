@@ -86,7 +86,7 @@ def update_manifest():
             try:
                 is_christmas = input('Is a Christmas song (y/N): ')
                 assert not is_christmas or is_christmas in 'ynYN'
-                details['christmas'] = not is_christmas or is_christmas in 'nN'
+                details['christmas'] = is_christmas in 'yY'
                 break
             except ValueError:
                 print('Need to enter y or n')
@@ -95,7 +95,7 @@ def update_manifest():
             try:
                 is_halloween = input('Is a Halloween song (y/N): ')
                 assert not is_halloween or is_halloween in 'ynYN'
-                details['halloween'] = not is_halloween or is_halloween in 'nN'
+                details['halloween'] = is_halloween in 'yY'
                 break
             except ValueError:
                 print('Need to enter y or n')
@@ -104,7 +104,7 @@ def update_manifest():
             try:
                 is_musical_theatre = input('Is a musical theatre song (y/N): ')
                 assert not is_musical_theatre or is_musical_theatre in 'ynYN'
-                details['musical'] = not is_musical_theatre or is_musical_theatre in 'nN'
+                details['musical'] = is_musical_theatre in 'yY'
                 break
             except ValueError:
                 print('Need to enter y or n')
