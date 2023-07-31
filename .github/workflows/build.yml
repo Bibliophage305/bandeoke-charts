@@ -3,8 +3,9 @@ name: Export PDFs
 on:
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
+    paths:
+      - musescore-charts/**
+      - raw-lyrics/**
   workflow_dispatch:
 
 jobs:

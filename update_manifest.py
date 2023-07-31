@@ -57,9 +57,9 @@ def update_manifest():
     for i, details in enumerate(data):
         warnings = []
         filename = details['title'] + ' - ' + details['artist']
-        if details['title'] not in charts:
+        if filename not in charts:
             warnings.append(f'Chart not found for {filename}')
-        if details['title'] not in lyrics:
+        if filename not in lyrics:
             warnings.append(f'Lyrics not found for {filename}')
         if warnings:
             print('\n'.join(warnings))
@@ -86,7 +86,7 @@ def update_manifest():
             try:
                 is_christmas = input('Is a Christmas song (y/N): ')
                 assert not is_christmas or is_christmas in 'ynYN'
-                details['christmas'] = is_christmas in 'yY'
+                details['christmas'] = is_christmas and is_christmas in 'yY'
                 break
             except ValueError:
                 print('Need to enter y or n')
@@ -95,7 +95,7 @@ def update_manifest():
             try:
                 is_halloween = input('Is a Halloween song (y/N): ')
                 assert not is_halloween or is_halloween in 'ynYN'
-                details['halloween'] = is_halloween in 'yY'
+                details['halloween'] = is_halloween and is_halloween in 'yY'
                 break
             except ValueError:
                 print('Need to enter y or n')
@@ -104,7 +104,7 @@ def update_manifest():
             try:
                 is_musical_theatre = input('Is a musical theatre song (y/N): ')
                 assert not is_musical_theatre or is_musical_theatre in 'ynYN'
-                details['musical'] = is_musical_theatre in 'yY'
+                details['musical'] = is_musical_theatre and is_musical_theatre in 'yY'
                 break
             except ValueError:
                 print('Need to enter y or n')

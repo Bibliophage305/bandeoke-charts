@@ -1,0 +1,54 @@
+# Pencil Full Of Lead - Paolo Nutini
+
+Oh, 1\
+1, 2, 3, 4\
+Ooh, I got a sheet for my bed\
+And a pillow for my head\
+I got a pencil full of lead\
+And some water for my throat\
+I've got buttons for my coat; and sails on my boat\
+So much more than I needed before\
+I got money in the meter and a two bar heater\
+Now it's getting hotter\
+Oh it's only getting sweeter\
+I got legs on my chairs and a head full of hair\
+Pot and a pan\
+And some shoes on my feet\
+I got a shelf full of books and most of my teeth\
+A few pairs of socks and a door with a lock\
+I got food in my belly and a license for my telly\
+And nothing's going to bring me down
+
+Oh no, oh nothings, oh nothings, oh nothings\
+Nothings gonna bring me down
+
+I got a nice guitar and tyres on my car\
+I got most of the means; and scripts for the scenes\
+I'm out and about, so I'm in with a shout\
+I got a fair bit of chat but better than that\
+Food in my belly and a license for my telly\
+And nothing's going to bring me down
+
+Nothing's going to bring me down
+
+But best of all (best of all)\
+I've got my baby\
+She's mighty fine and says she's all mine\
+And nothing's going to bring me down
+
+Ooh, best of all\
+I've got my baby\
+[x2]
+
+She's mighty fine and says she's all mine\
+And nothing's going to bring me down
+
+Ooh, best of all\
+I've got my baby\
+[x2]
+
+She's mighty fine and says she's all mine\
+And nothing's going to bring me down\
+[x3]
+
+Not today, no, no
