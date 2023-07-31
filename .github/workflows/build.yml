@@ -4,8 +4,8 @@ on:
   push:
     branches: [ master ]
     paths:
-      - musescore-charts/
-      - raw-lyrics/
+      - musescore-charts/**
+      - raw-lyrics/**
   workflow_dispatch:
 
 jobs:
