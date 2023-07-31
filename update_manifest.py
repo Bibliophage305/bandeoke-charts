@@ -1,4 +1,5 @@
-import os, json
+import os, json, collections
+from datetime import datetime
 
 def update_manifest():
        
@@ -77,7 +78,11 @@ def update_manifest():
         print(f'Need new info for {filename}')
         while True:
             try:
-                details['release-year'] = int(input('Year of release: '))
+                year = int(input('Year of release: '))
+                if not 1000 <= year <= datetime.now().year+1:
+                    print("That probably isn't the year you meant")
+                    continue
+                details['release-year'] = year
                 break
             except ValueError:
                 print('Invalid input')
@@ -86,7 +91,7 @@ def update_manifest():
             try:
                 is_christmas = input('Is a Christmas song (y/N): ')
                 assert not is_christmas or is_christmas in 'ynYN'
-                details['christmas'] = is_christmas and is_christmas in 'yY'
+                details['christmas'] = bool(is_christmas and is_christmas in 'yY')
                 break
             except ValueError:
                 print('Need to enter y or n')
@@ -95,7 +100,7 @@ def update_manifest():
             try:
                 is_halloween = input('Is a Halloween song (y/N): ')
                 assert not is_halloween or is_halloween in 'ynYN'
-                details['halloween'] = is_halloween and is_halloween in 'yY'
+                details['halloween'] = bool(is_halloween and is_halloween in 'yY')
                 break
             except ValueError:
                 print('Need to enter y or n')
@@ -104,7 +109,7 @@ def update_manifest():
             try:
                 is_musical_theatre = input('Is a musical theatre song (y/N): ')
                 assert not is_musical_theatre or is_musical_theatre in 'ynYN'
-                details['musical'] = is_musical_theatre and is_musical_theatre in 'yY'
+                details['musical'] = bool(is_musical_theatre and is_musical_theatre in 'yY')
                 break
             except ValueError:
                 print('Need to enter y or n')
@@ -112,7 +117,56 @@ def update_manifest():
         data.append(details)
 
     with open(json_path, "w") as json_file:
-        json.dump(data, json_file)
+        json.dump(data, json_file, indent=4)
+
+def write_song_list():
+    json_path = "song-manifest.json"
+
+    try:
+        # Open the JSON file in read mode
+        with open(json_path, "r") as json_file:
+            # Load the JSON data into a Python dictionary
+            data = json.load(json_file)
+    
+    except FileNotFoundError:
+        print(f"File '{json_path}' not found.")
+        return
+    except json.JSONDecodeError as e:
+        print(f"Error while parsing JSON: {e}")
+        return
+    except Exception as e:
+        print(f"An unexpected error occurred: {e}")
+        return
+    
+    song_categories = collections.defaultdict(list)
+    
+    for details in data:
+        title = details['title'] + ' - ' + details['artist']
+        if details['christmas']:
+            song_categories['Christmas'].append(title)
+        elif details['halloween']:
+            song_categories['Halloween'].append(title)
+        elif details['musical']:
+            song_categories['Musicals'].append(title)
+        else:
+            year = details['release-year']
+            song_categories[f'{10*(year//10)}s'].append(title)
+        
+    lines = [
+        '# The Fever Bandeoke - Song List',
+        ''
+    ]
+    
+    for category in sorted([c for c in song_categories if c not in ['Christmas', 'Halloween', 'Musicals']])+['Christmas', 'Halloween', 'Musicals']:
+        songs = sorted(song_categories[category])
+        if not songs:
+            continue
+        lines += [f'## {category}', '']
+        lines += [song+'\\' for song in songs]+['']
+    
+    with open('song-list.md', 'w') as f:
+        f.write('\n'.join(lines))
 
 if __name__ == '__main__':
     update_manifest()
+    write_song_list()

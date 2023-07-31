@@ -39,6 +39,12 @@ jobs:
           input_dir: raw-lyrics
           output_dir: temp-lyrics
           build_html: false
+      - name: Export song list to PDF
+        uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_path: song-list.md
+          output_dir: .
+          build_html: false
       - name: Tidy
         run: |
           rm -rf chart-exports
