@@ -57,9 +57,9 @@ def update_manifest():
     for i, details in enumerate(data):
         warnings = []
         filename = details['title'] + ' - ' + details['artist']
-        if details['title'] not in charts:
+        if filename not in charts:
             warnings.append(f'Chart not found for {filename}')
-        if details['title'] not in lyrics:
+        if filename not in lyrics:
             warnings.append(f'Lyrics not found for {filename}')
         if warnings:
             print('\n'.join(warnings))
