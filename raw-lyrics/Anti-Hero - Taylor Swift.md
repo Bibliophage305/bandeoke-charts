@@ -21,7 +21,7 @@ It must be exhausting always rooting for the anti-hero
 Sometimes I feel like everybody is a sexy baby\
 And I'm a monster on the hill\
 Too big to hang out, slowly lurching toward your favorite city\
-Pierced through the heart, but never killed\
+Pierced through the heart, but never killed
 
 Did you hear my covert narcissism I disguise as altruism\
 Like some kind of congressman? (Tale as old as time)\
