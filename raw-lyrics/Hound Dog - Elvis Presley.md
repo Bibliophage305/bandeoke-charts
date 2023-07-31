@@ -1,0 +1,43 @@
+# Hound Dog - Elvis Presley
+
+You ain't nothin' but a hound dog\
+Cryin' all the time\
+You ain't nothin' but a hound dog\
+Cryin' all the time\
+Well, you ain't never caught a rabbit\
+And you ain't no friend of mine
+
+When they said you was high-classed\
+Well, that was just a lie\
+When they said you was high-classed\
+Well, that was just a lie\
+You ain't never caught a rabbit\
+And you ain't no friend of mine
+
+You ain't nothin' but a hound dog\
+Cryin' all the time\
+You ain't nothin' but a hound dog\
+Cryin' all the time\
+Well, you ain't never caught a rabbit\
+And you ain't no friend of mine
+
+When they said you was high-classed\
+Well, that was just a lie\
+When they said you was high-classed\
+Well, that was just a lie\
+Well, you ain't never caught a rabbit\
+And you ain't no friend of mine
+
+When they said you was high-classed\
+Well, that was just a lie\
+You know they said you was high-classed\
+Well, that was just a lie\
+Well, you ain't never caught a rabbit\
+And you ain't no friend of mine
+
+You ain't nothin' but a hound dog\
+Cryin' all the time\
+You ain't nothin' but a hound dog\
+Cryin' all the time\
+Well, you ain't never caught a rabbit\
+You ain't no friend of mine
