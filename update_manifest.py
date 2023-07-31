@@ -162,7 +162,7 @@ def write_song_list():
         if not songs:
             continue
         lines += [f'## {category}', '']
-        lines += [song+'\\' for song in songs]+['']
+        lines += [song+'\\' for song in songs[:-1]]+[songs[-1]]+['']
     
     with open('song-list.md', 'w') as f:
         f.write('\n'.join(lines))
