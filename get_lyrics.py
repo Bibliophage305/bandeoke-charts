@@ -23,49 +23,59 @@ def get_lyrics():
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
         return
-        
-    lyrics = set()
-    for filename in os.listdir('raw-lyrics'):
-        # check correct file type
-        if filename[-3:] != '.md':
-            errors.append(f'{filename} is not a markdown file, please use .md format')
-            continue
-        
-        # check correct filename format
-        if len(filename.split(' - ')) != 2:
-            errors.append(f'{filename} is not the correct format, please use [song name] - [artist].md')
-            continue
-        
-        lyrics.add(filename[:-3])
     
-    charts = set()
-    for filename in os.listdir('musescore-charts'):
-        # check correct file type
-        if filename[-5:] != '.mscz':
-            errors.append(f'{filename} is not a markdown file, please use .md format')
-            continue
+    while True:
         
-        # check correct filename format
-        if len(filename.split(' - ')) != 2:
-            errors.append(f'{filename} is not the correct format, please use [title] - [artist].md')
-            continue
+        lyrics = set()
+        for filename in os.listdir('raw-lyrics'):
+            # check correct file type
+            if filename[-3:] != '.md':
+                errors.append(f'{filename} is not a markdown file, please use .md format')
+                continue
+            
+            # check correct filename format
+            if len(filename.split(' - ')) != 2:
+                errors.append(f'{filename} is not the correct format, please use [song name] - [artist].md')
+                continue
+            
+            lyrics.add(filename[:-3])
         
-        charts.add(filename[:-5])
-    
-    need_lyrics = charts - lyrics
-    
-    for filename in need_lyrics:
-        print(filename)
-        title, artist = filename.split(' - ')
-        api = AZlyrics()
-        api.artist = artist
-        api.title = title
-        lyrics = api.getLyrics(save=False)
-        try:
-            with open(os.path.join('raw-lyrics', filename+'.md'), 'w') as f:
-                f.write(lyrics)
-        except TypeError:
-            continue
+        charts = set()
+        for filename in os.listdir('musescore-charts'):
+            # check correct file type
+            if filename[-5:] != '.mscz':
+                errors.append(f'{filename} is not a markdown file, please use .md format')
+                continue
+            
+            # check correct filename format
+            if len(filename.split(' - ')) != 2:
+                errors.append(f'{filename} is not the correct format, please use [title] - [artist].md')
+                continue
+            
+            charts.add(filename[:-5])
+        
+        need_lyrics = charts - lyrics
+        
+        if not need_lyrics:
+            break
+        
+        for filename in need_lyrics:
+            print(filename)
+            title, artist = filename.split(' - ')
+            api = AZlyrics()
+            api.artist = artist
+            api.title = title
+            try:
+                lyrics = api.getLyrics(save=False)
+            except IndexError:
+                continue
+            if not lyrics:
+                continue
+            try:
+                with open(os.path.join('raw-lyrics', filename+'.md'), 'w') as f:
+                    f.write(lyrics)
+            except TypeError:
+                continue
 
 if __name__ == '__main__':
     get_lyrics()

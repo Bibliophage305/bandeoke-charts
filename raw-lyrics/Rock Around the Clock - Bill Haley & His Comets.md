@@ -1,3 +1,5 @@
+# Rock Around the Clock - Bill Haley & His Comets
+
 # Rock Around the Clock - Bill Haley _ His Comets
 
 One, two, tree o'clock, four o'clock rock\
