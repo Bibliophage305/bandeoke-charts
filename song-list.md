@@ -81,6 +81,7 @@ Summer Nights - Grease\
 Superstition - Stevie Wonder\
 Sweet Home Alabama - Lynyrd Skynyrd\
 Take It Easy - The Eagles\
+Teenage Kicks - The Undertones\
 Three Little Birds - Bob Marley\
 Tush - ZZ Top\
 Walk On The Wild Side - Lou Reed\
