@@ -9,7 +9,7 @@ Hound Dog - Elvis Presley\
 Jailhouse Rock - Elvis Presley\
 La Bamba - Ritchie Valens\
 Rock Around the Clock - Bill Haley & His Comets\
-Tutti Frutti - Little Richard\
+Tutti Frutti - Little Richard
 
 ## 1960s
 
@@ -24,10 +24,13 @@ My Way - Frank Sinatra\
 Sittin On the Dock of the Bay - Otis Redding\
 Son Of A Preacher Man - Dusty Springfield\
 Stand By Me - Ben E King\
+Stop! In The Name Of Love - The Supremes\
 Suspicious Minds - Elvis Presley\
+With a Little Help From my Friends - The Beatles
 
 ## 1970s
 
+Ballroom Blitz - Sweet\
 Blame It On The Boogie - The Jacksons\
 Boys Don't Cry - The Cure\
 Brown Sugar - The Rolling Stones\
@@ -46,6 +49,7 @@ Maggie May - Rod Stewart\
 Mamma Mia - ABBA\
 Moondance - Van Morrison\
 Move On Up - Curtis Mayfield\
+Mr. Blue Sky - Electric Light Orchestra\
 No Woman, No Cry - Bob Marley\
 Play That Funky Music - Wild Cherry\
 Rockin' All Over The World - Status Quo\
@@ -53,10 +57,11 @@ September - Earth, Wind and Fire\
 Somebody To Love - Queen\
 Superstition - Stevie Wonder\
 Sweet Home Alabama - Lynyrd Skynyrd\
+Take It Easy - The Eagles\
 Three Little Birds - Bob Marley\
 Tush - ZZ Top\
 Walk On The Wild Side - Lou Reed\
-Ziggy Stardust - David Bowie\
+Ziggy Stardust - David Bowie
 
 ## 1980s
 
@@ -75,13 +80,15 @@ Purple Rain - Prince\
 Rosanna - Toto\
 Running Up That Hill - Kate Bush\
 This Charming Man - The Smiths\
-You Shook Me All Night Long - ACDC\
+Wake Me Up Before You Go - Wham!\
+You Shook Me All Night Long - ACDC
 
 ## 1990s
 
 All Star - Smash Mouth\
 Barbie Girl - Aqua\
 Basket Case - Green Day\
+Breakfast At Tiffany's - Deep Blue Something\
 C'est la Vie - B*Witched\
 Creep - Radiohead\
 End Of The Road - Boyz II Men\
@@ -100,7 +107,7 @@ Torn - Natalie Imbruglia\
 Wannabe - Spice Girls\
 Waterfalls - TLC\
 What's Up? - 4 Non Blondes\
-You Get What You Give - New Radicals\
+You Get What You Give - New Radicals
 
 ## 2000s
 
@@ -115,7 +122,7 @@ Rehab - Amy Winehouse\
 Since U Been Gone - Kelly Clarkson\
 Take Your Mama - Scissor Sisters\
 Toxic - Britney Spears\
-Use Somebody - Kings Of Leon\
+Use Somebody - Kings Of Leon
 
 ## 2010s
 
@@ -140,7 +147,7 @@ Shut Up And Dance - Walk The Moon\
 Somebody That I Used To Know - Gotye\
 Stay With Me - Sam Smith\
 Treasure - Bruno Mars\
-bad guy - Billie Eilish\
+bad guy - Billie Eilish
 
 ## 2020s
 
@@ -149,8 +156,8 @@ As It Was - Harry Styles\
 Flowers - Miley Cyrus\
 Love's Train - Silk Sonic\
 Space Man - Sam Ryder\
-good 4 u - Olivia Rodrigo\
+good 4 u - Olivia Rodrigo
 
 ## Musicals
 
-A Whole New World - Aladdin\
+A Whole New World - Aladdin
