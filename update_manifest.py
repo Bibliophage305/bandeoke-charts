@@ -54,6 +54,12 @@ def update_manifest():
     
     both_present = charts & lyrics
     
+    for filename in charts - both_present:
+        print(f'lyrics not found for {filename}')
+    
+    for filename in lyrics - both_present:
+        print(f'chart not found for {filename}')
+    
     bad_data = set()
     for i, details in enumerate(data):
         warnings = []
