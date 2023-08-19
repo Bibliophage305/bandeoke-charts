@@ -55,7 +55,7 @@ Dreams - Fleetwood Mac\
 Get It On - T. Rex\
 Get Up, Stand Up - Bob Marley\
 Go Your Own Way - Fleetwood Mac\
-Highway To Hell - ACDC\
+Highway To Hell - AC／DC\
 Hold The Line - Toto\
 Hotel California - The Eagles\
 I Shot the Sheriff - Bob Marley\
@@ -111,7 +111,7 @@ Running Up That Hill - Kate Bush\
 This Charming Man - The Smiths\
 Wake Me Up Before You Go-Go - Wham!\
 Walking On Sunshine - Katrina and the Waves\
-You Shook Me All Night Long - ACDC
+You Shook Me All Night Long - AC／DC
 
 ## 1990s
 

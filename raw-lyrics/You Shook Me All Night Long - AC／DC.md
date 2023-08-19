@@ -1,4 +1,4 @@
-# You Shook Me All Night Long - ACDC
+# You Shook Me All Night Long - AC／DC
 
 She was a fast machine, she kept her motor clean\
 She was the best damn woman that I ever seen\

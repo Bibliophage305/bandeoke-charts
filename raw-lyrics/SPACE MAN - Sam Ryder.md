@@ -1,4 +1,4 @@
-# Space Man - Sam Ryder
+# SPACE MAN - Sam Ryder
 
 If I was an astronaut, I'd be floating in midair\
 And a broken heart would just belong to someone else down there\
