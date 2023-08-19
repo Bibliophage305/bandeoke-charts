@@ -1,4 +1,4 @@
-# Highway To Hell - ACDC
+# Highway To Hell - AC／DC
 
 Living easy, lovin' free\
 Season ticket on a one way ride\

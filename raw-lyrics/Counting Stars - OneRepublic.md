@@ -1,4 +1,4 @@
-# Counting Stars - One Republic
+# Counting Stars - OneRepublic
 
 Lately, I've been, I've been losing sleep\
 Dreaming about the things that we could be\
