@@ -61,18 +61,7 @@ That's when your dreams will all come true
 Reach for the stars\
 Climb every mountain higher\
 Reach for the stars\
-(Reach, reach, reach is all that left off)\
 Follow your heart's desire\
 Reach for the stars\
-(... right side)\
 And when that rainbow's shining over you\
 That's when your dreams will all come true
-
-Reach for the stars\
-(shine, shine, love)\
-Climb every mountain higher\
-Reach for the stars\
-(Reach, reach, reach is all that left off)\
-Follow your heart's desire\
-Reach for the stars\
-(... right side)
