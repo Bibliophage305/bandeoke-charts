@@ -117,6 +117,7 @@ You Shook Me All Night Long - AC／DC
 
 ...Baby One More Time - Britney Spears\
 All Star - Smash Mouth\
+All the Small Things - Blink-182\
 Barbie Girl - Aqua\
 Basket Case - Green Day\
 Breakfast At Tiffany's - Deep Blue Something\
@@ -168,7 +169,7 @@ Yellow - Coldplay
 Can't Stop the Feeling! - Justin Timberlake\
 Chandelier - SIA\
 Closer - The Chainsmokers\
-Counting Stars - One Republic\
+Counting Stars - OneRepublic\
 Diamonds - Rihanna\
 Finesse - Bruno Mars\
 Firework - Katy Perry\
@@ -197,7 +198,7 @@ As It Was - Harry Styles\
 Blinding Lights - The Weeknd\
 Flowers - Miley Cyrus\
 Love's Train - Silk Sonic\
-Space Man - Sam Ryder\
+SPACE MAN - Sam Ryder\
 good 4 u - Olivia Rodrigo
 
 ## Musicals
