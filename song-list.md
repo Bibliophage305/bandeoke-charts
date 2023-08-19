@@ -156,6 +156,7 @@ Pencil Full Of Lead - Paolo Nutini\
 Put Your Records On - Corinne Bailey Rae\
 Rehab - Amy Winehouse\
 Since U Been Gone - Kelly Clarkson\
+Star Girl - McFly\
 Take Your Mama - Scissor Sisters\
 Toxic - Britney Spears\
 Use Somebody - Kings Of Leon
