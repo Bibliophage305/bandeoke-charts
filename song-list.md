@@ -109,7 +109,7 @@ Purple Rain - Prince\
 Rosanna - Toto\
 Running Up That Hill - Kate Bush\
 This Charming Man - The Smiths\
-Wake Me Up Before You Go - Wham!\
+Wake Me Up Before You Go-Go - Wham!\
 Walking On Sunshine - Katrina and the Waves\
 You Shook Me All Night Long - ACDC
 
@@ -160,7 +160,8 @@ Since U Been Gone - Kelly Clarkson\
 Star Girl - McFly\
 Take Your Mama - Scissor Sisters\
 Toxic - Britney Spears\
-Use Somebody - Kings Of Leon
+Use Somebody - Kings Of Leon\
+Yellow - Coldplay
 
 ## 2010s
 
@@ -202,4 +203,5 @@ good 4 u - Olivia Rodrigo
 ## Musicals
 
 A Whole New World - Aladdin\
-Defying Gravity - Wicked
+Defying Gravity - Wicked\
+Sweet Transvestite - The Rocky Horror Show
