@@ -64,6 +64,7 @@ Jolene - Dolly Parton\
 Knockin' On Heaven's Door - Bob Dylan\
 Let's Stay Together - Al Green\
 Long Train Running - The Doobie Brothers\
+Lovely Day - Bill Withers\
 Maggie May - Rod Stewart\
 Mamma Mia - ABBA\
 Moondance - Van Morrison\
@@ -147,6 +148,7 @@ You Get What You Give - New Radicals
 ## 2000s
 
 American Boy - Estelle\
+I Predict a Riot - Kaiser Chiefs\
 Last Nite - The Strokes\
 Life Is A Highway - Rascal Flatts\
 Love Story - Taylor Swift\
@@ -156,6 +158,7 @@ New Shoes - Paolo Nutini\
 Oops!... I Did It Again - Britney Spears\
 Pencil Full Of Lead - Paolo Nutini\
 Put Your Records On - Corinne Bailey Rae\
+Reach - S Club 7\
 Rehab - Amy Winehouse\
 Since U Been Gone - Kelly Clarkson\
 Star Girl - McFly\
