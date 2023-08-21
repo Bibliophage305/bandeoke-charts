@@ -72,6 +72,7 @@ Move On Up - Curtis Mayfield\
 Mr. Blue Sky - Electric Light Orchestra\
 No Woman, No Cry - Bob Marley\
 Play That Funky Music - Wild Cherry\
+Proud Mary - Ike & Tina Turner\
 Rockin' All Over The World - Status Quo\
 Roxanne - The Police\
 September - Earth, Wind and Fire\
@@ -87,6 +88,7 @@ Three Little Birds - Bob Marley\
 Tush - ZZ Top\
 Walk On The Wild Side - Lou Reed\
 Waterloo - ABBA\
+Y.M.C.A. - Village People\
 You're The One That I Want - Grease\
 Ziggy Stardust - David Bowie
 
@@ -109,6 +111,9 @@ Kiss - Prince\
 Purple Rain - Prince\
 Rosanna - Toto\
 Running Up That Hill - Kate Bush\
+Summer of '69 - Bryan Adams\
+Tainted Love - Soft Cell\
+The Best - Tina Turner\
 This Charming Man - The Smiths\
 Wake Me Up Before You Go-Go - Wham!\
 Walking On Sunshine - Katrina and the Waves\
@@ -137,7 +142,9 @@ Man! I Feel Like A Woman! - Shania Twain\
 No Matter What - Boyzone\
 No Scrubs - TLC\
 Runaway Train - Soul Asylum\
+She's Electric - Oasis\
 Smells Like Teen Spirit - Nirvana\
+That Don't Impress Me Much - Shania Twain\
 Torn - Natalie Imbruglia\
 Wannabe - Spice Girls\
 Waterfalls - TLC\
@@ -160,7 +167,9 @@ Pencil Full Of Lead - Paolo Nutini\
 Put Your Records On - Corinne Bailey Rae\
 Reach - S Club 7\
 Rehab - Amy Winehouse\
+Shine - Take That\
 Since U Been Gone - Kelly Clarkson\
+Stacy's Mom - Fountains of Wayne\
 Star Girl - McFly\
 Take Your Mama - Scissor Sisters\
 Toxic - Britney Spears\
@@ -169,6 +178,7 @@ Yellow - Coldplay
 
 ## 2010s
 
+Call Me Maybe - Carly Rae Jepsen\
 Can't Stop the Feeling! - Justin Timberlake\
 Chandelier - SIA\
 Closer - The Chainsmokers\
@@ -191,7 +201,9 @@ Senorita - Shawn Mendes\
 Shut Up And Dance - Walk The Moon\
 Somebody That I Used To Know - Gotye\
 Stay With Me - Sam Smith\
+Totally Gay - Big Mouth\
 Treasure - Bruno Mars\
+Wagon Wheel - Darius Rucker\
 bad guy - Billie Eilish
 
 ## 2020s
@@ -208,4 +220,5 @@ good 4 u - Olivia Rodrigo
 
 A Whole New World - Aladdin\
 Defying Gravity - Wicked\
-Sweet Transvestite - The Rocky Horror Show
+Sweet Transvestite - The Rocky Horror Show\
+The Time Warp - The Rocky Horror Show
