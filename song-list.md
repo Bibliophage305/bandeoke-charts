@@ -14,6 +14,7 @@ Tutti Frutti - Little Richard
 ## 1960s
 
 All Day and All Of The Night - The Kinks\
+Bad Moon Rising - Creedence Clearwater Revival\
 Can't Take My Eyes Off You - Andy Williams\
 Come Together - The Beatles\
 Daydream Believer - The Monkees\
@@ -98,6 +99,7 @@ Africa - Toto\
 All Night Long (All Night) - Lionel Richie\
 Billie Jean - Michael Jackson\
 Can You Feel It - The Jacksons\
+Careless Whisper - George Michael\
 Don't You (Forget About Me) - Simple Minds\
 Down Under - Men At Work\
 Everybody Wants to Rule the World - Tears for Fears\
@@ -108,6 +110,7 @@ I Wanna Dance With Somebody - Whitney Houston\
 I'm So Excited - The Pointer Sisters\
 It's Raining Men - The Weather Girls\
 Kiss - Prince\
+Love Shack - The B-52's\
 Purple Rain - Prince\
 Rosanna - Toto\
 Running Up That Hill - Kate Bush\
@@ -155,6 +158,7 @@ You Get What You Give - New Radicals
 ## 2000s
 
 American Boy - Estelle\
+Have a Nice Day - Stereophonics\
 I Predict a Riot - Kaiser Chiefs\
 Last Nite - The Strokes\
 Life Is A Highway - Rascal Flatts\
@@ -178,12 +182,15 @@ Yellow - Coldplay
 
 ## 2010s
 
+All of Me - John Legend\
+Blank Space - Taylor Swift\
 Call Me Maybe - Carly Rae Jepsen\
 Can't Stop the Feeling! - Justin Timberlake\
 Chandelier - SIA\
 Closer - The Chainsmokers\
 Counting Stars - OneRepublic\
 Diamonds - Rihanna\
+Don't Start Now - Dua Lipa\
 Finesse - Bruno Mars\
 Firework - Katy Perry\
 Happy - Pharrell Williams\
@@ -210,6 +217,7 @@ bad guy - Billie Eilish
 
 Anti-Hero - Taylor Swift\
 As It Was - Harry Styles\
+Bad Habits - Ed Sheeran\
 Blinding Lights - The Weeknd\
 Flowers - Miley Cyrus\
 Love's Train - Silk Sonic\
