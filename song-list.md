@@ -14,6 +14,7 @@ Tutti Frutti - Little Richard
 ## 1960s
 
 All Day and All Of The Night - The Kinks\
+Bad Moon Rising - Creedence Clearwater Revival\
 Can't Take My Eyes Off You - Andy Williams\
 Come Together - The Beatles\
 Daydream Believer - The Monkees\
@@ -72,6 +73,7 @@ Move On Up - Curtis Mayfield\
 Mr. Blue Sky - Electric Light Orchestra\
 No Woman, No Cry - Bob Marley\
 Play That Funky Music - Wild Cherry\
+Proud Mary - Ike & Tina Turner\
 Rockin' All Over The World - Status Quo\
 Roxanne - The Police\
 September - Earth, Wind and Fire\
@@ -87,6 +89,7 @@ Three Little Birds - Bob Marley\
 Tush - ZZ Top\
 Walk On The Wild Side - Lou Reed\
 Waterloo - ABBA\
+Y.M.C.A. - Village People\
 You're The One That I Want - Grease\
 Ziggy Stardust - David Bowie
 
@@ -96,6 +99,7 @@ Africa - Toto\
 All Night Long (All Night) - Lionel Richie\
 Billie Jean - Michael Jackson\
 Can You Feel It - The Jacksons\
+Careless Whisper - George Michael\
 Don't You (Forget About Me) - Simple Minds\
 Down Under - Men At Work\
 Everybody Wants to Rule the World - Tears for Fears\
@@ -106,9 +110,13 @@ I Wanna Dance With Somebody - Whitney Houston\
 I'm So Excited - The Pointer Sisters\
 It's Raining Men - The Weather Girls\
 Kiss - Prince\
+Love Shack - The B-52's\
 Purple Rain - Prince\
 Rosanna - Toto\
 Running Up That Hill - Kate Bush\
+Summer of '69 - Bryan Adams\
+Tainted Love - Soft Cell\
+The Best - Tina Turner\
 This Charming Man - The Smiths\
 Wake Me Up Before You Go-Go - Wham!\
 Walking On Sunshine - Katrina and the Waves\
@@ -137,7 +145,9 @@ Man! I Feel Like A Woman! - Shania Twain\
 No Matter What - Boyzone\
 No Scrubs - TLC\
 Runaway Train - Soul Asylum\
+She's Electric - Oasis\
 Smells Like Teen Spirit - Nirvana\
+That Don't Impress Me Much - Shania Twain\
 Torn - Natalie Imbruglia\
 Wannabe - Spice Girls\
 Waterfalls - TLC\
@@ -148,6 +158,7 @@ You Get What You Give - New Radicals
 ## 2000s
 
 American Boy - Estelle\
+Have a Nice Day - Stereophonics\
 I Predict a Riot - Kaiser Chiefs\
 Last Nite - The Strokes\
 Life Is A Highway - Rascal Flatts\
@@ -160,7 +171,9 @@ Pencil Full Of Lead - Paolo Nutini\
 Put Your Records On - Corinne Bailey Rae\
 Reach - S Club 7\
 Rehab - Amy Winehouse\
+Shine - Take That\
 Since U Been Gone - Kelly Clarkson\
+Stacy's Mom - Fountains of Wayne\
 Star Girl - McFly\
 Take Your Mama - Scissor Sisters\
 Toxic - Britney Spears\
@@ -169,11 +182,15 @@ Yellow - Coldplay
 
 ## 2010s
 
+All of Me - John Legend\
+Blank Space - Taylor Swift\
+Call Me Maybe - Carly Rae Jepsen\
 Can't Stop the Feeling! - Justin Timberlake\
 Chandelier - SIA\
 Closer - The Chainsmokers\
 Counting Stars - OneRepublic\
 Diamonds - Rihanna\
+Don't Start Now - Dua Lipa\
 Finesse - Bruno Mars\
 Firework - Katy Perry\
 Happy - Pharrell Williams\
@@ -191,13 +208,16 @@ Senorita - Shawn Mendes\
 Shut Up And Dance - Walk The Moon\
 Somebody That I Used To Know - Gotye\
 Stay With Me - Sam Smith\
+Totally Gay - Big Mouth\
 Treasure - Bruno Mars\
+Wagon Wheel - Darius Rucker\
 bad guy - Billie Eilish
 
 ## 2020s
 
 Anti-Hero - Taylor Swift\
 As It Was - Harry Styles\
+Bad Habits - Ed Sheeran\
 Blinding Lights - The Weeknd\
 Flowers - Miley Cyrus\
 Love's Train - Silk Sonic\
@@ -208,4 +228,5 @@ good 4 u - Olivia Rodrigo
 
 A Whole New World - Aladdin\
 Defying Gravity - Wicked\
-Sweet Transvestite - The Rocky Horror Show
+Sweet Transvestite - The Rocky Horror Show\
+The Time Warp - The Rocky Horror Show

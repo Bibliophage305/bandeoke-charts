@@ -48,4 +48,6 @@ Tainted love (oh)\
 Tainted love (oh)
 
 Tainted love\
+Tainted love\
+Tainted love\
 Tainted love

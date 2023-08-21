@@ -9,8 +9,10 @@ Jump in
 I'm a Barbie girl in the Barbie world\
 Life in plastic, it's fantastic\
 You can brush my hair, undress me everywhere\
-Imagination, life is your creation\
-Come on, Barbie, let's go party\
+Imagination, life is your creation
+
+Come on, Barbie, let's go party
+
 I'm a Barbie girl in the Barbie world\
 Life in plastic, it's fantastic\
 You can brush my hair, undress me everywhere\

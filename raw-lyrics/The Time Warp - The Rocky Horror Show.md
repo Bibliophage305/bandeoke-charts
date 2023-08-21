@@ -60,5 +60,4 @@ But it's the pelvic thrust\
 That really drives you insane
 
 Let's do the time-warp again\
-Let's do the time-warp again\
 Let's do the time-warp again
