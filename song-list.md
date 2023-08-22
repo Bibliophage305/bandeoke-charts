@@ -183,6 +183,7 @@ Since U Been Gone - Kelly Clarkson\
 Stacy's Mom - Fountains of Wayne\
 Star Girl - McFly\
 Take Your Mama - Scissor Sisters\
+Teenage Dirtbag - Wheatus\
 Toxic - Britney Spears\
 Use Somebody - Kings Of Leon\
 Valerie - Amy Winehouse\
