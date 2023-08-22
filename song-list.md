@@ -13,6 +13,7 @@ Tutti Frutti - Little Richard
 
 ## 1960s
 
+Ain't No Mountain High Enough - Marvin Gaye, Tammy Terrell\
 All Day and All Of The Night - The Kinks\
 Bad Moon Rising - Creedence Clearwater Revival\
 Can't Take My Eyes Off You - Andy Williams\
@@ -58,6 +59,7 @@ Dreams - Fleetwood Mac\
 Get It On - T. Rex\
 Get Up, Stand Up - Bob Marley\
 Go Your Own Way - Fleetwood Mac\
+Have You Ever Seen The Rain? - Creedence Clearwater Revival\
 Highway To Hell - AC／DC\
 Hold The Line - Toto\
 Hotel California - The Eagles\
@@ -111,9 +113,12 @@ Down Under - Men At Work\
 Everybody Wants to Rule the World - Tears for Fears\
 Eye of the Tiger - Survivor\
 Fight For Your Right - Beastie Boys\
+Free Fallin' - Tom Petty\
 Gimme All Your Lovin' - ZZ Top\
+Girls Just Want to Have Fun - Cyndi Lauper\
 I Wanna Dance With Somebody - Whitney Houston\
 I'm So Excited - The Pointer Sisters\
+If I Could Turn Back Time - Cher\
 It's Raining Men - The Weather Girls\
 Kiss - Prince\
 Love Shack - The B-52's\
@@ -121,6 +126,7 @@ Purple Rain - Prince\
 Rosanna - Toto\
 Running Up That Hill - Kate Bush\
 Summer of '69 - Bryan Adams\
+Sweet Child o' Mine - Guns N' Roses\
 Tainted Love - Soft Cell\
 The Best - Tina Turner\
 This Charming Man - The Smiths\
@@ -135,11 +141,13 @@ All Star - Smash Mouth\
 All the Small Things - Blink-182\
 Barbie Girl - Aqua\
 Basket Case - Green Day\
+Believe - Cher\
 Breakfast At Tiffany's - Deep Blue Something\
 C'est la Vie - B*Witched\
 Creep - Radiohead\
 Don't Look Back In Anger - Oasis\
 End Of The Road - Boyz II Men\
+Genie in a Bottle - Christina Aguilera\
 Hakuna Matata - The Lion King\
 I Don't Want To Miss A Thing - Aerosmith\
 I Want It That Way - Backstreet Boys\
@@ -164,6 +172,9 @@ You Get What You Give - New Radicals
 ## 2000s
 
 American Boy - Estelle\
+American Idiot - Green Day\
+Beautiful - Christina Aguilera\
+Boulevard of Broken Dreams - Green Day\
 Have a Nice Day - Stereophonics\
 I Predict a Riot - Kaiser Chiefs\
 Last Nite - The Strokes\
@@ -174,9 +185,11 @@ Need You Now - Lady A\
 New Shoes - Paolo Nutini\
 Oops!... I Did It Again - Britney Spears\
 Pencil Full Of Lead - Paolo Nutini\
+Poker Face - Lady Gaga\
 Put Your Records On - Corinne Bailey Rae\
 Reach - S Club 7\
 Rehab - Amy Winehouse\
+Seven Nation Army - The White Stripes\
 She Moves in Her Own Way - The Kooks\
 Shine - Take That\
 Since U Been Gone - Kelly Clarkson\
@@ -214,12 +227,14 @@ Rolling In The Deep - Adele\
 Royals - Lorde\
 Rude - Magic!\
 Senorita - Shawn Mendes\
+Shallow - Lady Gaga, Bradley Cooper\
 Shut Up And Dance - Walk The Moon\
 Somebody That I Used To Know - Gotye\
 Stay With Me - Sam Smith\
 Totally Gay - Big Mouth\
 Treasure - Bruno Mars\
 Wagon Wheel - Darius Rucker\
+What Makes You Beautiful - One Direction\
 bad guy - Billie Eilish
 
 ## 2020s

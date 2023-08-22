@@ -84,14 +84,14 @@ Can't read my, can't read my\
 No, he can't read my poker face\
 (She's got me like nobody)
 
-P-p-p-poker face, f-f-fuck her face\
-P-p-p-poker face, f-f-fuck her face\
+P-p-p-poker face, p-p-poker face\
+P-p-p-poker face, p-p-poker face\
 (She's got me like nobody)\
-P-p-p-poker face, f-f-fuck her face\
+P-p-p-poker face, p-p-poker face\
 (Mum mum mum mah)\
-P-p-p-poker face, f-f-fuck her face\
+P-p-p-poker face, p-p-poker face\
 (Mum mum mum mah)\
-P-p-p-poker face, f-f-fuck her face\
+P-p-p-poker face, p-p-poker face\
 (Mum mum mum mah)\
-P-p-p-poker face, f-f-fuck her face\
+P-p-p-poker face, p-p-poker face\
 (Mum mum mum mah)
