@@ -24,6 +24,7 @@ if [ ${#failures[@]} -gt 0 ]; then
   echo "The following files failed to export:"
   for filename in "${failures[@]}"; do
     echo "$filename"
+    echo "::warning file=$filename::Musescore chart failed to export"
   done
 else
   echo "All the files exported successfully"
