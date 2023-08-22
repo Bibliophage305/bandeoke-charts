@@ -25,6 +25,7 @@ I Can't Get No Satisfaction - The Rolling Stones\
 I Saw Her Standing There - The Beatles\
 I'm A Believer - The Monkees\
 In The Midnight Hour - Wilson Pickett\
+Jumpin' Jack Flash - The Rolling Stones\
 Mustang Sally - Wilson Pickett\
 My Generation - The Who\
 My Girl - The Temptations\
@@ -35,6 +36,7 @@ Stand By Me - Ben E King\
 Stop! In The Name Of Love - The Supremes\
 Sunny Afternoon - The Kinks\
 Suspicious Minds - Elvis Presley\
+Sweet Caroline - Neil Diamond\
 The Kids Are Alright - The Who\
 These Boots - Nancy Sinatra\
 Twist And Shout - The Beatles\
@@ -59,6 +61,7 @@ Go Your Own Way - Fleetwood Mac\
 Highway To Hell - AC／DC\
 Hold The Line - Toto\
 Hotel California - The Eagles\
+I Can See Clearly Now - Johnny Nash\
 I Shot the Sheriff - Bob Marley\
 Is This The Way To Amarillo - Tony Christie\
 Jolene - Dolly Parton\
@@ -68,10 +71,12 @@ Long Train Running - The Doobie Brothers\
 Lovely Day - Bill Withers\
 Maggie May - Rod Stewart\
 Mamma Mia - ABBA\
+Message in a Bottle - The Police\
 Moondance - Van Morrison\
 Move On Up - Curtis Mayfield\
 Mr. Blue Sky - Electric Light Orchestra\
 No Woman, No Cry - Bob Marley\
+One Way or Another - Blondie\
 Play That Funky Music - Wild Cherry\
 Proud Mary - Ike & Tina Turner\
 Rockin' All Over The World - Status Quo\
@@ -84,6 +89,7 @@ Summer Nights - Grease\
 Superstition - Stevie Wonder\
 Sweet Home Alabama - Lynyrd Skynyrd\
 Take It Easy - The Eagles\
+Take Me Home, Country Roads - John Denver\
 Teenage Kicks - The Undertones\
 Three Little Birds - Bob Marley\
 Tush - ZZ Top\
@@ -171,13 +177,16 @@ Pencil Full Of Lead - Paolo Nutini\
 Put Your Records On - Corinne Bailey Rae\
 Reach - S Club 7\
 Rehab - Amy Winehouse\
+She Moves in Her Own Way - The Kooks\
 Shine - Take That\
 Since U Been Gone - Kelly Clarkson\
 Stacy's Mom - Fountains of Wayne\
 Star Girl - McFly\
 Take Your Mama - Scissor Sisters\
+Teenage Dirtbag - Wheatus\
 Toxic - Britney Spears\
 Use Somebody - Kings Of Leon\
+Valerie - Amy Winehouse\
 Yellow - Coldplay
 
 ## 2010s
