@@ -25,6 +25,7 @@ I Can't Get No Satisfaction - The Rolling Stones\
 I Saw Her Standing There - The Beatles\
 I'm A Believer - The Monkees\
 In The Midnight Hour - Wilson Pickett\
+Jumpin' Jack Flash - The Rolling Stones\
 Mustang Sally - Wilson Pickett\
 My Generation - The Who\
 My Girl - The Temptations\
@@ -35,6 +36,7 @@ Stand By Me - Ben E King\
 Stop! In The Name Of Love - The Supremes\
 Sunny Afternoon - The Kinks\
 Suspicious Minds - Elvis Presley\
+Sweet Caroline - Neil Diamond\
 The Kids Are Alright - The Who\
 These Boots - Nancy Sinatra\
 Twist And Shout - The Beatles\
@@ -59,6 +61,7 @@ Go Your Own Way - Fleetwood Mac\
 Highway To Hell - AC／DC\
 Hold The Line - Toto\
 Hotel California - The Eagles\
+I Can See Clearly Now - Johnny Nash\
 I Shot the Sheriff - Bob Marley\
 Is This The Way To Amarillo - Tony Christie\
 Jolene - Dolly Parton\
@@ -68,10 +71,12 @@ Long Train Running - The Doobie Brothers\
 Lovely Day - Bill Withers\
 Maggie May - Rod Stewart\
 Mamma Mia - ABBA\
+Message in a Bottle - The Police\
 Moondance - Van Morrison\
 Move On Up - Curtis Mayfield\
 Mr. Blue Sky - Electric Light Orchestra\
 No Woman, No Cry - Bob Marley\
+One Way or Another - Blondie\
 Play That Funky Music - Wild Cherry\
 Proud Mary - Ike & Tina Turner\
 Rockin' All Over The World - Status Quo\
