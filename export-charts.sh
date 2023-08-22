@@ -4,6 +4,9 @@ mkdir temp-exports
 
 failures=()
 
+# make sure it sees files starting with dot (...Baby One More Time)
+shopt -s dotglob
+
 for file in musescore-charts/*.mscz; do
   filename=$(basename "$file") # Extract the filename without the extension
 
@@ -15,6 +18,7 @@ for file in musescore-charts/*.mscz; do
   if [ ! -f "$output_file" ]; then
     failures+=("$filename") # Add the filename to the failure array
     echo "failure!"
+    echo "::warning file=$filename::Musescore chart failed to export"
   fi
 done
 
@@ -24,7 +28,6 @@ if [ ${#failures[@]} -gt 0 ]; then
   echo "The following files failed to export:"
   for filename in "${failures[@]}"; do
     echo "$filename"
-    echo "::warning file=$filename::Musescore chart failed to export"
   done
 else
   echo "All the files exported successfully"
