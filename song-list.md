@@ -103,6 +103,8 @@ Ziggy Stardust - David Bowie
 
 ## 1980s
 
+(I've Had) The Time of My Life - Bill Medley and Jennifer Warnes (Dirty Dancing)\
+9 to 5 - Dolly Parton\
 Africa - Toto\
 All Night Long (All Night) - Lionel Richie\
 Billie Jean - Michael Jackson\
@@ -117,6 +119,7 @@ Free Fallin' - Tom Petty\
 Gimme All Your Lovin' - ZZ Top\
 Girls Just Want to Have Fun - Cyndi Lauper\
 I Wanna Dance With Somebody - Whitney Houston\
+I'm Gonna Be (500 Miles) - The Proclaimers\
 I'm So Excited - The Pointer Sisters\
 If I Could Turn Back Time - Cher\
 It's Raining Men - The Weather Girls\
@@ -166,6 +169,7 @@ Torn - Natalie Imbruglia\
 Wannabe - Spice Girls\
 Waterfalls - TLC\
 What's Up? - 4 Non Blondes\
+When You Say Nothing at All - Ronan Keating\
 Wonderwall - Oasis\
 You Get What You Give - New Radicals
 
@@ -174,7 +178,9 @@ You Get What You Give - New Radicals
 American Boy - Estelle\
 American Idiot - Green Day\
 Beautiful - Christina Aguilera\
+Bohemian Like You - The Dandy Warhols\
 Boulevard of Broken Dreams - Green Day\
+Crazy - Gnarls Barkley\
 Have a Nice Day - Stereophonics\
 I Predict a Riot - Kaiser Chiefs\
 Last Nite - The Strokes\
@@ -200,7 +206,8 @@ Teenage Dirtbag - Wheatus\
 Toxic - Britney Spears\
 Use Somebody - Kings Of Leon\
 Valerie - Amy Winehouse\
-Yellow - Coldplay
+Yellow - Coldplay\
+You've Got the Love - Florence + The Machine
 
 ## 2010s
 

@@ -34,6 +34,8 @@ You got the love\
 You got the love\
 You got the love
 
+[Ad Libs]
+
 Sometimes I feel like throwing my hands up in the air\
 'Cause I know I can count on you\
 Sometimes I feel like saying, "Lord, I just don't care."\
