@@ -89,6 +89,7 @@ Summer Nights - Grease\
 Superstition - Stevie Wonder\
 Sweet Home Alabama - Lynyrd Skynyrd\
 Take It Easy - The Eagles\
+Take Me Home, Country Roads - John Denver\
 Teenage Kicks - The Undertones\
 Three Little Birds - Bob Marley\
 Tush - ZZ Top\
@@ -176,6 +177,7 @@ Pencil Full Of Lead - Paolo Nutini\
 Put Your Records On - Corinne Bailey Rae\
 Reach - S Club 7\
 Rehab - Amy Winehouse\
+She Moves in Her Own Way - The Kooks\
 Shine - Take That\
 Since U Been Gone - Kelly Clarkson\
 Stacy's Mom - Fountains of Wayne\
@@ -183,6 +185,7 @@ Star Girl - McFly\
 Take Your Mama - Scissor Sisters\
 Toxic - Britney Spears\
 Use Somebody - Kings Of Leon\
+Valerie - Amy Winehouse\
 Yellow - Coldplay
 
 ## 2010s
