@@ -45,6 +45,7 @@ Waterloo Sunset - The Kinks\
 Wild Thing - The Troggs\
 With a Little Help From my Friends - The Beatles\
 Yellow Submarine - The Beatles\
+You Can't Hurry Love - The Supremes\
 You Really Got Me - The Kinks
 
 ## 1970s
@@ -122,19 +123,27 @@ I Wanna Dance With Somebody - Whitney Houston\
 I'm Gonna Be (500 Miles) - The Proclaimers\
 I'm So Excited - The Pointer Sisters\
 If I Could Turn Back Time - Cher\
+Islands In The Stream - Kenny Rogers & Dolly Parton\
 It's Raining Men - The Weather Girls\
 Kiss - Prince\
 Love Shack - The B-52's\
 Purple Rain - Prince\
 Rosanna - Toto\
+Run to You - Bryan Adams\
 Running Up That Hill - Kate Bush\
+Should I Stay or Should I Go - The Clash\
+Sit Down - James\
 Summer of '69 - Bryan Adams\
 Sweet Child o' Mine - Guns N' Roses\
+Sweet Dreams (Are Made of This) - Eurythmics\
 Tainted Love - Soft Cell\
 The Best - Tina Turner\
 This Charming Man - The Smiths\
+Total Eclipse of the Heart - Bonnie Tyler\
 Wake Me Up Before You Go-Go - Wham!\
+Walk This Way - Aerosmith\
 Walking On Sunshine - Katrina and the Waves\
+White Wedding - Billy Idol\
 You Shook Me All Night Long - AC／DC
 
 ## 1990s
@@ -143,14 +152,18 @@ You Shook Me All Night Long - AC／DC
 All Star - Smash Mouth\
 All the Small Things - Blink-182\
 Angels - Robbie Williams\
+Back for Good - Take That\
 Barbie Girl - Aqua\
 Basket Case - Green Day\
 Believe - Cher\
+Black Velvet - Alannah Myles\
 Breakfast At Tiffany's - Deep Blue Something\
 C'est la Vie - B*Witched\
 Creep - Radiohead\
+Dance The Night Away - The Mavericks\
 Don't Look Back In Anger - Oasis\
 End Of The Road - Boyz II Men\
+Everybody (Backstreet's Back) - Backstreet Boys\
 Genie in a Bottle - Christina Aguilera\
 Hakuna Matata - The Lion King\
 I Don't Want To Miss A Thing - Aerosmith\
@@ -158,13 +171,18 @@ I Want It That Way - Backstreet Boys\
 I Will Always Love You - Whitney Houston\
 Ice Ice Baby - Vanilla Ice\
 Ironic - Alanis Morissette\
+Let Me Entertain You - Robbie Williams\
+Livin' La Vida Loca - Ricky Martin\
 Losing My Religion - R.E.M.\
 Man! I Feel Like A Woman! - Shania Twain\
 No Matter What - Boyzone\
 No Scrubs - TLC\
+Parklife - Blur\
 Runaway Train - Soul Asylum\
+Save Tonight - Eagle-Eye Cherry\
 She's Electric - Oasis\
 Smells Like Teen Spirit - Nirvana\
+Song 2 - Blur\
 That Don't Impress Me Much - Shania Twain\
 Torn - Natalie Imbruglia\
 Wannabe - Spice Girls\
@@ -178,16 +196,26 @@ You Get What You Give - New Radicals
 
 American Boy - Estelle\
 American Idiot - Green Day\
+Are You Gonna Be My Girl - Jet\
 Beautiful - Christina Aguilera\
 Bohemian Like You - The Dandy Warhols\
 Boulevard of Broken Dreams - Green Day\
+Chelsea Dagger - The Fratellis\
 Crazy - Gnarls Barkley\
+Dancing in the Moonlight - Toploader\
+Don't Stop Movin' - S Club 7\
 Have a Nice Day - Stereophonics\
+Hey Ya! - OutKast\
+I Gotta Feeling - Black Eyed Peas\
+I Kissed a Girl - Katy Perry\
 I Predict a Riot - Kaiser Chiefs\
 Last Nite - The Strokes\
 Life Is A Highway - Rascal Flatts\
+Love Machine - Girls Aloud\
 Love Story - Taylor Swift\
 Make You Feel My Love - Adele\
+Mercy - Duffy\
+Mr. Brightside - The Killers\
 Need You Now - Lady A\
 New Shoes - Paolo Nutini\
 Oops!... I Did It Again - Britney Spears\
@@ -196,12 +224,15 @@ Poker Face - Lady Gaga\
 Put Your Records On - Corinne Bailey Rae\
 Reach - S Club 7\
 Rehab - Amy Winehouse\
+Rule the World - Take That\
 Seven Nation Army - The White Stripes\
+Sex on Fire - Kings of Leon\
 She Moves in Her Own Way - The Kooks\
 Shine - Take That\
 Since U Been Gone - Kelly Clarkson\
 Stacy's Mom - Fountains of Wayne\
 Star Girl - McFly\
+Take Me Out - Franz Ferdinand\
 Take Your Mama - Scissor Sisters\
 Teenage Dirtbag - Wheatus\
 Toxic - Britney Spears\
@@ -213,6 +244,7 @@ You've Got the Love - Florence + The Machine
 ## 2010s
 
 All of Me - John Legend\
+Blame It on Me - George Ezra\
 Blank Space - Taylor Swift\
 Call Me Maybe - Carly Rae Jepsen\
 Can't Stop the Feeling! - Justin Timberlake\
@@ -223,12 +255,14 @@ Diamonds - Rihanna\
 Don't Start Now - Dua Lipa\
 Finesse - Bruno Mars\
 Firework - Katy Perry\
+Forget You - CeeLo Green\
 Happy - Pharrell Williams\
 Hello - Adele\
 Ho Hey - The Lumineers\
 Impossible - James Arthur\
 Juice - Lizzo\
 Just The Way You Are - Bruno Mars\
+Locked Out of Heaven - Bruno Mars\
 Paradise - George Ezra\
 Price Tag - Jessie J\
 Rolling In The Deep - Adele\
@@ -242,6 +276,7 @@ Stay With Me - Sam Smith\
 Totally Gay - Big Mouth\
 Treasure - Bruno Mars\
 Wagon Wheel - Darius Rucker\
+Wake Me Up - Avicii\
 What Makes You Beautiful - One Direction\
 bad guy - Billie Eilish
 

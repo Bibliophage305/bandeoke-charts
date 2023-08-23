@@ -42,15 +42,31 @@ def update_manifest():
     for filename in os.listdir('musescore-charts'):
         # check correct file type
         if filename[-5:] != '.mscz':
-            errors.append(f'{filename} is not a markdown file, please use .md format')
+            errors.append(f'{filename} is not a musescore file, please use .mscz format')
             continue
         
         # check correct filename format
         if len(filename.split(' - ')) != 2:
-            errors.append(f'{filename} is not the correct format, please use [title] - [artist].md')
+            errors.append(f'{filename} is not the correct format, please use [title] - [artist].mscz')
             continue
         
         charts.add(filename[:-5])
+    
+    for filename in list(os.listdir('old-format-charts')):
+        # check correct file type
+        if filename[-4:] != '.pdf':
+            errors.append(f'{filename} is not a pdf file, please use .pdf format')
+            continue
+        
+        # check correct filename format
+        if len(filename.split(' - ')) != 2:
+            errors.append(f'{filename} is not the correct format, please use [title] - [artist].pdf')
+            continue
+        
+        if filename[:-4] in charts:
+            os.remove(os.path.join('old-format-charts', filename))
+        else:
+            charts.add(filename[:-4])
     
     both_present = charts & lyrics
     
@@ -76,7 +92,7 @@ def update_manifest():
         else:
             both_present.remove(filename)
     data = [details for i, details in enumerate(data) if i not in bad_data]
-    
+
     for filename in both_present:
         title, artist = filename.split(' - ')
         details = {'title': title, 'artist': artist}
