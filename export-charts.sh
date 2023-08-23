@@ -2,13 +2,19 @@
 
 mkdir temp-exports
 
+# copy old format files first
+for file in old-format-charts/*.pdf; do
+  filename=$(basename "$file") # Extract the filename without the path
+  cp "${file}" "temp-exports/${filename}"
+done
+
 failures=()
 
 # make sure it sees files starting with dot (...Baby One More Time)
 shopt -s dotglob
 
 for file in musescore-charts/*.mscz; do
-  filename=$(basename "$file") # Extract the filename without the extension
+  filename=$(basename "$file") # Extract the filename without the path
 
   echo $filename
 
