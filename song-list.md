@@ -142,6 +142,7 @@ You Shook Me All Night Long - AC／DC
 ...Baby One More Time - Britney Spears\
 All Star - Smash Mouth\
 All the Small Things - Blink-182\
+Angels - Robbie Williams\
 Barbie Girl - Aqua\
 Basket Case - Green Day\
 Believe - Cher\
