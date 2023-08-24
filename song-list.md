@@ -128,6 +128,7 @@ If I Could Turn Back Time - Cher\
 Islands In The Stream - Kenny Rogers & Dolly Parton\
 It's Raining Men - The Weather Girls\
 Kiss - Prince\
+Like a Prayer - Madonna\
 Love Shack - The B-52's\
 Purple Rain - Prince\
 Rosanna - Toto\
@@ -268,6 +269,7 @@ Impossible - James Arthur\
 Juice - Lizzo\
 Just The Way You Are - Bruno Mars\
 Locked Out of Heaven - Bruno Mars\
+Love On Top - Beyoncé\
 Paradise - George Ezra\
 Price Tag - Jessie J\
 Rolling In The Deep - Adele\

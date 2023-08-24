@@ -2206,5 +2206,21 @@
         "christmas": false,
         "halloween": false,
         "musical": false
+    },
+    {
+        "title": "Love On Top",
+        "artist": "Beyonc\u00e9",
+        "release-year": 2011,
+        "christmas": false,
+        "halloween": false,
+        "musical": false
+    },
+    {
+        "title": "Like a Prayer",
+        "artist": "Madonna",
+        "release-year": 1989,
+        "christmas": false,
+        "halloween": false,
+        "musical": false
     }
 ]
