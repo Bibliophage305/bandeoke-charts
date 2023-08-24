@@ -2,7 +2,7 @@ import os, json, collections
 from datetime import datetime
 
 def update_manifest():
-       
+    
     errors = []
     
     # Specify the path to the JSON file
@@ -23,7 +23,8 @@ def update_manifest():
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
         return
-        
+    
+    # find all songs with lyric files
     lyrics = set()
     for filename in os.listdir('raw-lyrics'):
         # check correct file type
@@ -38,6 +39,7 @@ def update_manifest():
         
         lyrics.add(filename[:-3])
     
+    # find all songs with musescore chart files
     charts = set()
     for filename in os.listdir('musescore-charts'):
         # check correct file type
@@ -52,6 +54,7 @@ def update_manifest():
         
         charts.add(filename[:-5])
     
+    # add to charts all songs with old format chart files
     for filename in list(os.listdir('old-format-charts')):
         # check correct file type
         if filename[-4:] != '.pdf':
@@ -63,10 +66,10 @@ def update_manifest():
             errors.append(f'{filename} is not the correct format, please use [title] - [artist].pdf')
             continue
         
+        # if it's already there, we can delete it
         if filename[:-4] in charts:
-            os.remove(os.path.join('old-format-charts', filename))
-        else:
-            charts.add(filename[:-4])
+            print(f'can now remove old format chart {filename}')
+        charts.add(filename[:-4])
     
     both_present = charts & lyrics
     
