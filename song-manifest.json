@@ -2198,5 +2198,13 @@
         "christmas": false,
         "halloween": false,
         "musical": false
+    },
+    {
+        "title": "Heaven Is a Place on Earth",
+        "artist": "Belinda Carlisle",
+        "release-year": 1987,
+        "christmas": false,
+        "halloween": false,
+        "musical": false
     }
 ]

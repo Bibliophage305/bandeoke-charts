@@ -120,6 +120,7 @@ Fight For Your Right - Beastie Boys\
 Free Fallin' - Tom Petty\
 Gimme All Your Lovin' - ZZ Top\
 Girls Just Want to Have Fun - Cyndi Lauper\
+Heaven Is a Place on Earth - Belinda Carlisle\
 I Wanna Dance With Somebody - Whitney Houston\
 I'm Gonna Be (500 Miles) - The Proclaimers\
 I'm So Excited - The Pointer Sisters\
