@@ -112,6 +112,7 @@ Billie Jean - Michael Jackson\
 Can You Feel It - The Jacksons\
 Careless Whisper - George Michael\
 Don't You (Forget About Me) - Simple Minds\
+Don't You Want Me Baby - The Human League\
 Down Under - Men At Work\
 Everybody Wants to Rule the World - Tears for Fears\
 Eye of the Tiger - Survivor\
@@ -119,6 +120,7 @@ Fight For Your Right - Beastie Boys\
 Free Fallin' - Tom Petty\
 Gimme All Your Lovin' - ZZ Top\
 Girls Just Want to Have Fun - Cyndi Lauper\
+Heaven Is a Place on Earth - Belinda Carlisle\
 I Wanna Dance With Somebody - Whitney Houston\
 I'm Gonna Be (500 Miles) - The Proclaimers\
 I'm So Excited - The Pointer Sisters\
@@ -126,6 +128,7 @@ If I Could Turn Back Time - Cher\
 Islands In The Stream - Kenny Rogers & Dolly Parton\
 It's Raining Men - The Weather Girls\
 Kiss - Prince\
+Like a Prayer - Madonna\
 Love Shack - The B-52's\
 Purple Rain - Prince\
 Rosanna - Toto\
@@ -200,10 +203,13 @@ Are You Gonna Be My Girl - Jet\
 Beautiful - Christina Aguilera\
 Bohemian Like You - The Dandy Warhols\
 Boulevard of Broken Dreams - Green Day\
+Can't Get You Out of My Head - Kylie Minogue\
+Chasing Cars - Snow Patrol\
 Chelsea Dagger - The Fratellis\
 Crazy - Gnarls Barkley\
 Dancing in the Moonlight - Toploader\
 Don't Stop Movin' - S Club 7\
+Grace Kelly - MIKA\
 Have a Nice Day - Stereophonics\
 Hey Ya! - OutKast\
 I Gotta Feeling - Black Eyed Peas\
@@ -263,6 +269,7 @@ Impossible - James Arthur\
 Juice - Lizzo\
 Just The Way You Are - Bruno Mars\
 Locked Out of Heaven - Bruno Mars\
+Love On Top - Beyoncé\
 Paradise - George Ezra\
 Price Tag - Jessie J\
 Rolling In The Deep - Adele\
