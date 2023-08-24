@@ -2222,5 +2222,37 @@
         "christmas": false,
         "halloween": false,
         "musical": false
+    },
+    {
+        "title": "All About That Bass",
+        "artist": "Meghan Trainor",
+        "release-year": 2014,
+        "christmas": false,
+        "halloween": false,
+        "musical": false
+    },
+    {
+        "title": "Green Green Grass",
+        "artist": "George Ezra",
+        "release-year": 2022,
+        "christmas": false,
+        "halloween": false,
+        "musical": false
+    },
+    {
+        "title": "Just Can't Get Enough",
+        "artist": "Depeche Mode",
+        "release-year": 1981,
+        "christmas": false,
+        "halloween": false,
+        "musical": false
+    },
+    {
+        "title": "Dynamite",
+        "artist": "BTS",
+        "release-year": 2020,
+        "christmas": false,
+        "halloween": false,
+        "musical": false
     }
 ]

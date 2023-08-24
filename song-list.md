@@ -127,6 +127,7 @@ I'm So Excited - The Pointer Sisters\
 If I Could Turn Back Time - Cher\
 Islands In The Stream - Kenny Rogers & Dolly Parton\
 It's Raining Men - The Weather Girls\
+Just Can't Get Enough - Depeche Mode\
 Kiss - Prince\
 Like a Prayer - Madonna\
 Love Shack - The B-52's\
@@ -249,6 +250,7 @@ You've Got the Love - Florence + The Machine
 
 ## 2010s
 
+All About That Bass - Meghan Trainor\
 All of Me - John Legend\
 Blame It on Me - George Ezra\
 Blank Space - Taylor Swift\
@@ -293,7 +295,9 @@ Anti-Hero - Taylor Swift\
 As It Was - Harry Styles\
 Bad Habits - Ed Sheeran\
 Blinding Lights - The Weeknd\
+Dynamite - BTS\
 Flowers - Miley Cyrus\
+Green Green Grass - George Ezra\
 Love's Train - Silk Sonic\
 SPACE MAN - Sam Ryder\
 good 4 u - Olivia Rodrigo
