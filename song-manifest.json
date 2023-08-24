@@ -2190,5 +2190,13 @@
         "christmas": false,
         "halloween": false,
         "musical": false
+    },
+    {
+        "title": "Grace Kelly",
+        "artist": "MIKA",
+        "release-year": 2007,
+        "christmas": false,
+        "halloween": false,
+        "musical": false
     }
 ]

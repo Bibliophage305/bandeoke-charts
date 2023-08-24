@@ -207,6 +207,7 @@ Chelsea Dagger - The Fratellis\
 Crazy - Gnarls Barkley\
 Dancing in the Moonlight - Toploader\
 Don't Stop Movin' - S Club 7\
+Grace Kelly - MIKA\
 Have a Nice Day - Stereophonics\
 Hey Ya! - OutKast\
 I Gotta Feeling - Black Eyed Peas\
