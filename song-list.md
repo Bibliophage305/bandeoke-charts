@@ -112,6 +112,7 @@ Billie Jean - Michael Jackson\
 Can You Feel It - The Jacksons\
 Careless Whisper - George Michael\
 Don't You (Forget About Me) - Simple Minds\
+Don't You Want Me Baby - The Human League\
 Down Under - Men At Work\
 Everybody Wants to Rule the World - Tears for Fears\
 Eye of the Tiger - Survivor\
@@ -200,6 +201,8 @@ Are You Gonna Be My Girl - Jet\
 Beautiful - Christina Aguilera\
 Bohemian Like You - The Dandy Warhols\
 Boulevard of Broken Dreams - Green Day\
+Can't Get You Out of My Head - Kylie Minogue\
+Chasing Cars - Snow Patrol\
 Chelsea Dagger - The Fratellis\
 Crazy - Gnarls Barkley\
 Dancing in the Moonlight - Toploader\
