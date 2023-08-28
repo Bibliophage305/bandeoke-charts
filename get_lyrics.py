@@ -6,7 +6,7 @@ def get_lyrics():
     errors = []
     
     # Specify the path to the JSON file
-    json_path = "song-manifest.json"
+    json_path = "songManifest.json"
 
     try:
         # Open the JSON file in read mode

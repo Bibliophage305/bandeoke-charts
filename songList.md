@@ -86,6 +86,7 @@ Rockin' All Over The World - Status Quo\
 Roxanne - The Police\
 September - Earth, Wind and Fire\
 Somebody To Love - Queen\
+Songbird - Fleetwood Mac\
 Stayin' Alive - The Bee Gees\
 Stuck In The Middle - Stealers Wheel\
 Summer Nights - Grease\

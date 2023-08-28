@@ -2254,5 +2254,13 @@
         "christmas": false,
         "halloween": false,
         "musical": false
+    },
+    {
+        "title": "Songbird",
+        "artist": "Fleetwood Mac",
+        "release-year": 1977,
+        "christmas": false,
+        "halloween": false,
+        "musical": false
     }
 ]
