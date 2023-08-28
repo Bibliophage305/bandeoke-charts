@@ -6,7 +6,7 @@ def update_manifest():
     errors = []
     
     # Specify the path to the JSON file
-    json_path = "song-manifest.json"
+    json_path = "songManifest.json"
 
     try:
         # Open the JSON file in read mode
@@ -145,7 +145,7 @@ def update_manifest():
         json.dump(data, json_file, indent=4)
 
 def write_song_list():
-    json_path = "song-manifest.json"
+    json_path = "songManifest.json"
 
     try:
         # Open the JSON file in read mode
@@ -189,7 +189,7 @@ def write_song_list():
         lines += [f'## {category}', '']
         lines += [song+'\\' for song in songs[:-1]]+[songs[-1]]+['']
     
-    with open('song-list.md', 'w') as f:
+    with open('songList.md', 'w') as f:
         f.write('\n'.join(lines))
 
 if __name__ == '__main__':
