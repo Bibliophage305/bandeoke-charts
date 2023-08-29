@@ -1,4 +1,4 @@
-import os, json, collections, datetime, inquirer
+import os, json, collections, datetime, uuid
 
 JSON_PATH = "songManifest.json"
 CATEGORIES_PATH = "categories.json"
@@ -102,6 +102,7 @@ def update_manifest():
     for filename in both_present:
         title, artist = filename.split(' - ')
         data.append({
+            'id': str(uuid.uuid4()),
             'title': title,
             'artist': artist,
             'releaseYear': None,
@@ -112,10 +113,8 @@ def update_manifest():
     categories = get_categories()
         
     for i, details in enumerate(data):
-        if 'categories' not in details:
-            data[i]['categories'] = []
-        if 'checkedCategories' not in details:
-            data[i]['checkedCategories'] = []
+        if 'id' not in details:
+            data[i]['id'] = str(uuid.uuid4())
         if details['releaseYear'] is None:
             while True:
                 try:
