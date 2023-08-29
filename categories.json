@@ -1,0 +1,23 @@
+{
+    "Christmas": {
+        "separate": true
+    },
+    "Hallowe'en": {
+        "separate": true
+    },
+    "Musical Theatre": {
+        "separate": false
+    },
+    "Male Vocal": {
+        "separate": false
+    },
+    "Female Vocal": {
+        "separate": false
+    },
+    "Duet": {
+        "separate": false
+    },
+    "Group": {
+        "separate": false
+    }
+}
