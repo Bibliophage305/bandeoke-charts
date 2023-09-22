@@ -1,28 +1,31 @@
-import os, json, collections
-from datetime import datetime
+import os, json, collections, datetime, uuid
+
+JSON_PATH = "songManifest.json"
+CATEGORIES_PATH = "categories.json"
+
+def get_current_manifest():
+    # Open the JSON file in read mode
+    with open(JSON_PATH, "r") as json_file:
+        # Load the JSON data into a Python dictionary
+        data = json.load(json_file)
+    return data
+
+def get_categories():
+    # Open the JSON file in read mode
+    with open(CATEGORIES_PATH, "r") as json_file:
+        # Load the JSON data into a Python dictionary
+        data = json.load(json_file)
+    return data
+
+def write_manifest(data):
+    with open(JSON_PATH, "w") as json_file:
+        json.dump(sorted(data, key=lambda x:x['title']), json_file, indent=4)
 
 def update_manifest():
     
     errors = []
     
-    # Specify the path to the JSON file
-    json_path = "songManifest.json"
-
-    try:
-        # Open the JSON file in read mode
-        with open(json_path, "r") as json_file:
-            # Load the JSON data into a Python dictionary
-            data = json.load(json_file)
-
-    except FileNotFoundError:
-        print(f"File '{json_path}' not found.")
-        return
-    except json.JSONDecodeError as e:
-        print(f"Error while parsing JSON: {e}")
-        return
-    except Exception as e:
-        print(f"An unexpected error occurred: {e}")
-        return
+    data = get_current_manifest()
     
     # find all songs with lyric files
     lyrics = set()
@@ -94,87 +97,67 @@ def update_manifest():
             print()
         else:
             both_present.remove(filename)
+    
     data = [details for i, details in enumerate(data) if i not in bad_data]
-
     for filename in both_present:
         title, artist = filename.split(' - ')
-        details = {'title': title, 'artist': artist}
-        print()
-        print(f'Need new info for {filename}')
-        while True:
-            try:
-                year = int(input('Year of release: '))
-                if not 1000 <= year <= datetime.now().year+1:
-                    print("That probably isn't the year you meant")
-                    continue
-                details['release-year'] = year
-                break
-            except ValueError:
-                print('Invalid input')
+        data.append({
+            'id': str(uuid.uuid4()),
+            'title': title,
+            'artist': artist,
+            'releaseYear': None,
+            'categories': [],
+            'checkedCategories': [],
+        })
         
-        while True:
-            try:
-                is_christmas = input('Is a Christmas song (y/N): ')
-                assert not is_christmas or is_christmas in 'ynYN'
-                details['christmas'] = bool(is_christmas and is_christmas in 'yY')
-                break
-            except ValueError:
-                print('Need to enter y or n')
+    categories = get_categories()
         
-        while True:
-            try:
-                is_halloween = input('Is a Halloween song (y/N): ')
-                assert not is_halloween or is_halloween in 'ynYN'
-                details['halloween'] = bool(is_halloween and is_halloween in 'yY')
-                break
-            except ValueError:
-                print('Need to enter y or n')
-        
-        while True:
-            try:
-                is_musical_theatre = input('Is a musical theatre song (y/N): ')
-                assert not is_musical_theatre or is_musical_theatre in 'ynYN'
-                details['musical'] = bool(is_musical_theatre and is_musical_theatre in 'yY')
-                break
-            except ValueError:
-                print('Need to enter y or n')
-        
-        data.append(details)
+    for i, details in enumerate(data):
+        if 'id' not in details:
+            data[i]['id'] = str(uuid.uuid4())
+        if details['releaseYear'] is None:
+            while True:
+                try:
+                    year = int(input(f"{details['title']} - {details['artist']} year of release: "))
+                    if not 1000 <= year <= datetime.datetime.now().year+1:
+                        print("That probably isn't the year you meant")
+                        continue
+                    data[i]['releaseYear'] = year
+                    break
+                except ValueError:
+                    print('Invalid input')
+        decade_category = f"{10*(data[i]['releaseYear']//10)}s"
+        if decade_category not in data[i]['categories']:
+            data[i]['categories'].append(decade_category)
+        for category in [c for c in categories.keys() if c not in details['checkedCategories']]:
+            while True:
+                try:
+                    has_category = input(f"{details['title']} - {details['artist']} has category {category} (y/N): ")
+                    assert not has_category or has_category in 'ynYN'
+                    if bool(has_category and has_category in 'yY'):
+                        data[i]['categories'].append(category)
+                    data[i]['checkedCategories'].append(category)
+                    break
+                except ValueError:
+                    print('Need to enter y or n')
 
-    with open(json_path, "w") as json_file:
-        json.dump(data, json_file, indent=4)
+    write_manifest(data)
 
 def write_song_list():
-    json_path = "songManifest.json"
-
-    try:
-        # Open the JSON file in read mode
-        with open(json_path, "r") as json_file:
-            # Load the JSON data into a Python dictionary
-            data = json.load(json_file)
-    
-    except FileNotFoundError:
-        print(f"File '{json_path}' not found.")
-        return
-    except json.JSONDecodeError as e:
-        print(f"Error while parsing JSON: {e}")
-        return
-    except Exception as e:
-        print(f"An unexpected error occurred: {e}")
-        return
+    data = get_current_manifest()
     
     song_categories = collections.defaultdict(list)
     
+    separate_categories = [c for c, v in get_categories().items() if v['separate']]
+    
     for details in data:
         title = details['title'] + ' - ' + details['artist']
-        if details['christmas']:
-            song_categories['Christmas'].append(title)
-        elif details['halloween']:
-            song_categories['Halloween'].append(title)
-        elif details['musical']:
-            song_categories['Musicals'].append(title)
+        for c in separate_categories:
+            if c in details['categories']:
+                song_categories[c].append(title)
+                break
         else:
-            year = details['release-year']
+            year = details['releaseYear']
             song_categories[f'{10*(year//10)}s'].append(title)
         
     lines = [
@@ -182,7 +165,7 @@ def write_song_list():
         ''
     ]
     
-    for category in sorted([c for c in song_categories if c not in ['Christmas', 'Halloween', 'Musicals']])+['Christmas', 'Halloween', 'Musicals']:
+    for category in sorted([c for c in song_categories if c not in separate_categories])+separate_categories:
         songs = sorted(song_categories[category])
         if not songs:
             continue

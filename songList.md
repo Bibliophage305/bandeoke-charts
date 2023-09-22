@@ -92,9 +92,11 @@ Stuck In The Middle - Stealers Wheel\
 Summer Nights - Grease\
 Superstition - Stevie Wonder\
 Sweet Home Alabama - Lynyrd Skynyrd\
+Sweet Transvestite - The Rocky Horror Show\
 Take It Easy - The Eagles\
 Take Me Home, Country Roads - John Denver\
 Teenage Kicks - The Undertones\
+The Time Warp - The Rocky Horror Show\
 Three Little Birds - Bob Marley\
 Tush - ZZ Top\
 Walk On The Wild Side - Lou Reed\
@@ -154,6 +156,7 @@ You Shook Me All Night Long - AC／DC
 ## 1990s
 
 ...Baby One More Time - Britney Spears\
+A Whole New World - Aladdin\
 All Star - Smash Mouth\
 All the Small Things - Blink-182\
 Angels - Robbie Williams\
@@ -210,6 +213,7 @@ Chasing Cars - Snow Patrol\
 Chelsea Dagger - The Fratellis\
 Crazy - Gnarls Barkley\
 Dancing in the Moonlight - Toploader\
+Defying Gravity - Wicked\
 Don't Stop Movin' - S Club 7\
 Grace Kelly - MIKA\
 Have a Nice Day - Stereophonics\
@@ -302,10 +306,3 @@ Green Green Grass - George Ezra\
 Love's Train - Silk Sonic\
 SPACE MAN - Sam Ryder\
 good 4 u - Olivia Rodrigo
-
-## Musicals
-
-A Whole New World - Aladdin\
-Defying Gravity - Wicked\
-Sweet Transvestite - The Rocky Horror Show\
-The Time Warp - The Rocky Horror Show
