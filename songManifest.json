@@ -638,6 +638,25 @@
         "id": "975c3fc2-734e-4963-a0cf-89a7fd42c3be"
     },
     {
+        "id": "eccef52a-d08f-486f-839b-109c770fd0ba",
+        "title": "Blueberry Hill",
+        "artist": "Fats Domino",
+        "releaseYear": 1956,
+        "categories": [
+            "1950s",
+            "Male Vocal"
+        ],
+        "checkedCategories": [
+            "Christmas",
+            "Hallowe'en",
+            "Musical Theatre",
+            "Male Vocal",
+            "Female Vocal",
+            "Duet",
+            "Group"
+        ]
+    },
+    {
         "title": "Bohemian Like You",
         "artist": "The Dandy Warhols",
         "releaseYear": 2000,
@@ -1057,6 +1076,25 @@
         "id": "74b79d35-e2b1-4902-b28d-481b8269ba48"
     },
     {
+        "id": "e54a8adb-fe9f-446e-a9e5-db984f2d7426",
+        "title": "Dance The Night",
+        "artist": "Dua Lipa",
+        "releaseYear": 2023,
+        "categories": [
+            "2020s",
+            "Female Vocal"
+        ],
+        "checkedCategories": [
+            "Christmas",
+            "Hallowe'en",
+            "Musical Theatre",
+            "Male Vocal",
+            "Female Vocal",
+            "Duet",
+            "Group"
+        ]
+    },
+    {
         "title": "Dance The Night Away",
         "artist": "The Mavericks",
         "releaseYear": 1998,
@@ -1113,6 +1151,25 @@
             "Group"
         ],
         "id": "14728e17-09a7-48a2-ae68-21ffef900da9"
+    },
+    {
+        "id": "c0e6c201-b8f5-49cd-8f24-7b466c914397",
+        "title": "Dancing in the Moonlight",
+        "artist": "Thin Lizzy",
+        "releaseYear": 1977,
+        "categories": [
+            "1970s",
+            "Male Vocal"
+        ],
+        "checkedCategories": [
+            "Christmas",
+            "Hallowe'en",
+            "Musical Theatre",
+            "Male Vocal",
+            "Female Vocal",
+            "Duet",
+            "Group"
+        ]
     },
     {
         "title": "Daydream Believer",
@@ -1367,6 +1424,25 @@
             "Group"
         ],
         "id": "f1fe2ad0-a2c3-4d77-bf1a-464dbefc4033"
+    },
+    {
+        "id": "fdda5d85-47cf-4a54-bfc5-a29312d1f817",
+        "title": "Ever Fallen In Love",
+        "artist": "Buzzcocks",
+        "releaseYear": 1978,
+        "categories": [
+            "1970s",
+            "Male Vocal"
+        ],
+        "checkedCategories": [
+            "Christmas",
+            "Hallowe'en",
+            "Musical Theatre",
+            "Male Vocal",
+            "Female Vocal",
+            "Duet",
+            "Group"
+        ]
     },
     {
         "title": "Everybody (Backstreet's Back)",
@@ -1980,6 +2056,25 @@
         "id": "1e059dbb-d174-494a-9db4-0c5414f517fc"
     },
     {
+        "id": "019a83fd-1cea-4f1c-a807-c585d0b0dddf",
+        "title": "I Believe in a Thing Called Love",
+        "artist": "The Darkness",
+        "releaseYear": 2003,
+        "categories": [
+            "2000s",
+            "Male Vocal"
+        ],
+        "checkedCategories": [
+            "Christmas",
+            "Hallowe'en",
+            "Musical Theatre",
+            "Male Vocal",
+            "Female Vocal",
+            "Duet",
+            "Group"
+        ]
+    },
+    {
         "title": "I Can See Clearly Now",
         "artist": "Johnny Nash",
         "releaseYear": 1972,
@@ -2190,6 +2285,25 @@
             "Group"
         ],
         "id": "d6842095-8ceb-4482-aa4b-4f31a6784fa1"
+    },
+    {
+        "id": "0b490d1b-5ea2-4ef0-993d-e4ad4d62dc70",
+        "title": "I'll Be There For You",
+        "artist": "The Rembrandts",
+        "releaseYear": 1995,
+        "categories": [
+            "1990s",
+            "Male Vocal"
+        ],
+        "checkedCategories": [
+            "Christmas",
+            "Hallowe'en",
+            "Musical Theatre",
+            "Male Vocal",
+            "Female Vocal",
+            "Duet",
+            "Group"
+        ]
     },
     {
         "title": "I'm A Believer",
@@ -3054,6 +3168,25 @@
         "id": "8b832d6b-d431-4fc3-99c1-dabd52691540"
     },
     {
+        "id": "59b8d6e5-4bba-46c0-bab9-2c587d0cddb9",
+        "title": "Murder On The Dancefloor",
+        "artist": "Sophie Ellis-Bextor",
+        "releaseYear": 2001,
+        "categories": [
+            "2000s",
+            "Female Vocal"
+        ],
+        "checkedCategories": [
+            "Christmas",
+            "Hallowe'en",
+            "Musical Theatre",
+            "Male Vocal",
+            "Female Vocal",
+            "Duet",
+            "Group"
+        ]
+    },
+    {
         "title": "Mustang Sally",
         "artist": "Wilson Pickett",
         "releaseYear": 1966,
@@ -3128,6 +3261,25 @@
             "Group"
         ],
         "id": "398c6349-57e2-4884-93f1-67f47bd93935"
+    },
+    {
+        "id": "651d816e-7ed5-493f-afac-3475a74bd9c0",
+        "title": "Naive",
+        "artist": "The Kooks",
+        "releaseYear": 2006,
+        "categories": [
+            "2000s",
+            "Male Vocal"
+        ],
+        "checkedCategories": [
+            "Christmas",
+            "Hallowe'en",
+            "Musical Theatre",
+            "Male Vocal",
+            "Female Vocal",
+            "Duet",
+            "Group"
+        ]
     },
     {
         "title": "Need You Now",
@@ -4301,6 +4453,25 @@
         "id": "3e71c2db-3e8b-415b-92df-d1f5f33e6629"
     },
     {
+        "id": "e0706d1f-1268-40be-a98a-75790240462d",
+        "title": "Surrender",
+        "artist": "Cheap Trick",
+        "releaseYear": 1978,
+        "categories": [
+            "1970s",
+            "Male Vocal"
+        ],
+        "checkedCategories": [
+            "Christmas",
+            "Hallowe'en",
+            "Musical Theatre",
+            "Male Vocal",
+            "Female Vocal",
+            "Duet",
+            "Group"
+        ]
+    },
+    {
         "title": "Suspicious Minds",
         "artist": "Elvis Presley",
         "releaseYear": 1968,
@@ -4587,6 +4758,25 @@
         "id": "3f5b6c52-9e0b-4650-b4bd-2893d7a58e10"
     },
     {
+        "id": "1d26e6bf-8ac9-4734-8153-3c14bc5b4981",
+        "title": "The Gaslight Anthem",
+        "artist": "Mae",
+        "releaseYear": 2012,
+        "categories": [
+            "2010s",
+            "Male Vocal"
+        ],
+        "checkedCategories": [
+            "Christmas",
+            "Hallowe'en",
+            "Musical Theatre",
+            "Male Vocal",
+            "Female Vocal",
+            "Duet",
+            "Group"
+        ]
+    },
+    {
         "title": "The Kids Are Alright",
         "artist": "The Who",
         "releaseYear": 1966,
@@ -4604,6 +4794,25 @@
             "Group"
         ],
         "id": "848ffd74-e5cc-4beb-b8b6-8f802eed7732"
+    },
+    {
+        "id": "18df12c8-47c4-4ad8-9678-ce55cab69bcf",
+        "title": "The Middle",
+        "artist": "Jimmy Eat World",
+        "releaseYear": 2001,
+        "categories": [
+            "2000s",
+            "Male Vocal"
+        ],
+        "checkedCategories": [
+            "Christmas",
+            "Hallowe'en",
+            "Musical Theatre",
+            "Male Vocal",
+            "Female Vocal",
+            "Duet",
+            "Group"
+        ]
     },
     {
         "title": "The Time Warp",
