@@ -3,6 +3,7 @@
 ## 1950s
 
 All Shook Up - Elvis Presley\
+Blueberry Hill - Fats Domino\
 Come Fly With Me - Frank Sinatra\
 Folsom Prison Blues - Johnny Cash\
 Hound Dog - Elvis Presley\
@@ -56,7 +57,9 @@ Boys Don't Cry - The Cure\
 Brown Sugar - The Rolling Stones\
 Crazy Little Thing Called Love - Queen\
 Dancing Queen - ABBA\
+Dancing in the Moonlight - Thin Lizzy\
 Dreams - Fleetwood Mac\
+Ever Fallen In Love - Buzzcocks\
 Get It On - T. Rex\
 Get Up, Stand Up - Bob Marley\
 Go Your Own Way - Fleetwood Mac\
@@ -91,6 +94,7 @@ Stayin' Alive - The Bee Gees\
 Stuck In The Middle - Stealers Wheel\
 Summer Nights - Grease\
 Superstition - Stevie Wonder\
+Surrender - Cheap Trick\
 Sweet Home Alabama - Lynyrd Skynyrd\
 Sweet Transvestite - The Rocky Horror Show\
 Take It Easy - The Eagles\
@@ -177,6 +181,7 @@ Hakuna Matata - The Lion King\
 I Don't Want To Miss A Thing - Aerosmith\
 I Want It That Way - Backstreet Boys\
 I Will Always Love You - Whitney Houston\
+I'll Be There For You - The Rembrandts\
 Ice Ice Baby - Vanilla Ice\
 Ironic - Alanis Morissette\
 Let Me Entertain You - Robbie Williams\
@@ -218,6 +223,7 @@ Don't Stop Movin' - S Club 7\
 Grace Kelly - MIKA\
 Have a Nice Day - Stereophonics\
 Hey Ya! - OutKast\
+I Believe in a Thing Called Love - The Darkness\
 I Gotta Feeling - Black Eyed Peas\
 I Kissed a Girl - Katy Perry\
 I Predict a Riot - Kaiser Chiefs\
@@ -228,6 +234,8 @@ Love Story - Taylor Swift\
 Make You Feel My Love - Adele\
 Mercy - Duffy\
 Mr. Brightside - The Killers\
+Murder On The Dancefloor - Sophie Ellis-Bextor\
+Naive - The Kooks\
 Need You Now - Lady A\
 New Shoes - Paolo Nutini\
 Oops!... I Did It Again - Britney Spears\
@@ -247,6 +255,7 @@ Star Girl - McFly\
 Take Me Out - Franz Ferdinand\
 Take Your Mama - Scissor Sisters\
 Teenage Dirtbag - Wheatus\
+The Middle - Jimmy Eat World\
 Toxic - Britney Spears\
 Use Somebody - Kings Of Leon\
 Valerie - Amy Winehouse\
@@ -287,6 +296,7 @@ Shallow - Lady Gaga, Bradley Cooper\
 Shut Up And Dance - Walk The Moon\
 Somebody That I Used To Know - Gotye\
 Stay With Me - Sam Smith\
+The Gaslight Anthem - Mae\
 Totally Gay - Big Mouth\
 Treasure - Bruno Mars\
 Wagon Wheel - Darius Rucker\
@@ -300,6 +310,7 @@ Anti-Hero - Taylor Swift\
 As It Was - Harry Styles\
 Bad Habits - Ed Sheeran\
 Blinding Lights - The Weeknd\
+Dance The Night - Dua Lipa\
 Dynamite - BTS\
 Flowers - Miley Cyrus\
 Green Green Grass - George Ezra\
