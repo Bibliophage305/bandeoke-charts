@@ -69,6 +69,7 @@ Hold The Line - Toto\
 Hotel California - The Eagles\
 I Can See Clearly Now - Johnny Nash\
 I Shot the Sheriff - Bob Marley\
+I Wanna Be Sedated - Ramones\
 Is This The Way To Amarillo - Tony Christie\
 Jolene - Dolly Parton\
 Knockin' On Heaven's Door - Bob Dylan\
