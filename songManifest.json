@@ -1249,6 +1249,25 @@
         "id": "ae24e549-b171-4d49-bdb4-5d81493cffb5"
     },
     {
+        "id": "c767b301-5e6d-45c2-8b41-7ba0219b91bb",
+        "title": "Domino",
+        "artist": "Jessie J",
+        "releaseYear": 2011,
+        "categories": [
+            "2010s",
+            "Female Vocal"
+        ],
+        "checkedCategories": [
+            "Christmas",
+            "Hallowe'en",
+            "Musical Theatre",
+            "Male Vocal",
+            "Female Vocal",
+            "Duet",
+            "Group"
+        ]
+    },
+    {
         "title": "Don't Look Back In Anger",
         "artist": "Oasis",
         "releaseYear": 1995,

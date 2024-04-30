@@ -277,6 +277,7 @@ Chandelier - SIA\
 Closer - The Chainsmokers\
 Counting Stars - OneRepublic\
 Diamonds - Rihanna\
+Domino - Jessie J\
 Don't Start Now - Dua Lipa\
 Finesse - Bruno Mars\
 Firework - Katy Perry\
