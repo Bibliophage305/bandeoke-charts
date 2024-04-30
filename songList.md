@@ -262,6 +262,7 @@ The Middle - Jimmy Eat World\
 Toxic - Britney Spears\
 Use Somebody - Kings Of Leon\
 Valerie - Amy Winehouse\
+When You Were Young - The Killers\
 Yellow - Coldplay\
 You've Got the Love - Florence + The Machine
 
@@ -277,6 +278,7 @@ Chandelier - SIA\
 Closer - The Chainsmokers\
 Counting Stars - OneRepublic\
 Diamonds - Rihanna\
+Domino - Jessie J\
 Don't Start Now - Dua Lipa\
 Finesse - Bruno Mars\
 Firework - Katy Perry\
