@@ -141,6 +141,7 @@ Kiss - Prince\
 Like a Prayer - Madonna\
 Love Shack - The B-52's\
 Purple Rain - Prince\
+Rebel Yell - Billy Idol\
 Rosanna - Toto\
 Run to You - Bryan Adams\
 Running Up That Hill - Kate Bush\

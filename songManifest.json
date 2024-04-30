@@ -3668,6 +3668,25 @@
         "id": "7d4dc5c5-ae57-4042-be7e-1fcf6b4d51fb"
     },
     {
+        "id": "0dea7580-de32-489d-af63-0515ec2b3e1b",
+        "title": "Rebel Yell",
+        "artist": "Billy Idol",
+        "releaseYear": 1983,
+        "categories": [
+            "1980s",
+            "Male Vocal"
+        ],
+        "checkedCategories": [
+            "Christmas",
+            "Hallowe'en",
+            "Musical Theatre",
+            "Male Vocal",
+            "Female Vocal",
+            "Duet",
+            "Group"
+        ]
+    },
+    {
         "title": "Rehab",
         "artist": "Amy Winehouse",
         "releaseYear": 2006,
