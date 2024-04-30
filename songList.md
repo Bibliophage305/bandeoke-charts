@@ -120,6 +120,7 @@ Billie Jean - Michael Jackson\
 Can You Feel It - The Jacksons\
 Careless Whisper - George Michael\
 Dancing On The Ceiling - Lionel Richie\
+Don't Stop Believin' - Journey\
 Don't You (Forget About Me) - Simple Minds\
 Don't You Want Me Baby - The Human League\
 Down Under - Men At Work\
@@ -141,6 +142,7 @@ Kiss - Prince\
 Like a Prayer - Madonna\
 Love Shack - The B-52's\
 Purple Rain - Prince\
+Rebel Yell - Billy Idol\
 Rosanna - Toto\
 Run to You - Bryan Adams\
 Running Up That Hill - Kate Bush\
@@ -262,6 +264,7 @@ The Middle - Jimmy Eat World\
 Toxic - Britney Spears\
 Use Somebody - Kings Of Leon\
 Valerie - Amy Winehouse\
+When The Sun Goes Down - Arctic Monkeys\
 When You Were Young - The Killers\
 Yellow - Coldplay\
 You've Got the Love - Florence + The Machine

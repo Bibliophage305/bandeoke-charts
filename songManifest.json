@@ -1306,6 +1306,25 @@
         "id": "82dcd210-6210-4873-83f7-1493ed7292ab"
     },
     {
+        "id": "e9686c75-1e1e-47ca-aa7d-6684e3d4aec2",
+        "title": "Don't Stop Believin'",
+        "artist": "Journey",
+        "releaseYear": 1981,
+        "categories": [
+            "1980s",
+            "Male Vocal"
+        ],
+        "checkedCategories": [
+            "Christmas",
+            "Hallowe'en",
+            "Musical Theatre",
+            "Male Vocal",
+            "Female Vocal",
+            "Duet",
+            "Group"
+        ]
+    },
+    {
         "title": "Don't Stop Movin'",
         "artist": "S Club 7",
         "releaseYear": 2001,
@@ -3668,6 +3687,25 @@
         "id": "7d4dc5c5-ae57-4042-be7e-1fcf6b4d51fb"
     },
     {
+        "id": "0dea7580-de32-489d-af63-0515ec2b3e1b",
+        "title": "Rebel Yell",
+        "artist": "Billy Idol",
+        "releaseYear": 1983,
+        "categories": [
+            "1980s",
+            "Male Vocal"
+        ],
+        "checkedCategories": [
+            "Christmas",
+            "Hallowe'en",
+            "Musical Theatre",
+            "Male Vocal",
+            "Female Vocal",
+            "Duet",
+            "Group"
+        ]
+    },
+    {
         "title": "Rehab",
         "artist": "Amy Winehouse",
         "releaseYear": 2006,
@@ -5389,6 +5427,25 @@
             "Group"
         ],
         "id": "07810281-da0d-4b21-a60e-c1a5f0d963db"
+    },
+    {
+        "id": "e4c58b8b-fbce-4bba-886a-28bdcb80f736",
+        "title": "When The Sun Goes Down",
+        "artist": "Arctic Monkeys",
+        "releaseYear": 2006,
+        "categories": [
+            "2000s",
+            "Male Vocal"
+        ],
+        "checkedCategories": [
+            "Christmas",
+            "Hallowe'en",
+            "Musical Theatre",
+            "Male Vocal",
+            "Female Vocal",
+            "Duet",
+            "Group"
+        ]
     },
     {
         "title": "When You Say Nothing at All",
