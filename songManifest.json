@@ -5429,6 +5429,25 @@
         "id": "07810281-da0d-4b21-a60e-c1a5f0d963db"
     },
     {
+        "id": "e4c58b8b-fbce-4bba-886a-28bdcb80f736",
+        "title": "When The Sun Goes Down",
+        "artist": "Arctic Monkeys",
+        "releaseYear": 2006,
+        "categories": [
+            "2000s",
+            "Male Vocal"
+        ],
+        "checkedCategories": [
+            "Christmas",
+            "Hallowe'en",
+            "Musical Theatre",
+            "Male Vocal",
+            "Female Vocal",
+            "Duet",
+            "Group"
+        ]
+    },
+    {
         "title": "When You Say Nothing at All",
         "artist": "Ronan Keating",
         "releaseYear": 1999,

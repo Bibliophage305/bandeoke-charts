@@ -264,6 +264,7 @@ The Middle - Jimmy Eat World\
 Toxic - Britney Spears\
 Use Somebody - Kings Of Leon\
 Valerie - Amy Winehouse\
+When The Sun Goes Down - Arctic Monkeys\
 When You Were Young - The Killers\
 Yellow - Coldplay\
 You've Got the Love - Florence + The Machine
