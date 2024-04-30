@@ -1114,6 +1114,25 @@
         "id": "7f023710-4816-4701-9a23-95a81ffe1ac8"
     },
     {
+        "id": "44d1c3ed-b355-4a69-b25e-2dfd2e2332a8",
+        "title": "Dancing On The Ceiling",
+        "artist": "Lionel Richie",
+        "releaseYear": 1986,
+        "categories": [
+            "1980s",
+            "Male Vocal"
+        ],
+        "checkedCategories": [
+            "Christmas",
+            "Hallowe'en",
+            "Musical Theatre",
+            "Male Vocal",
+            "Female Vocal",
+            "Duet",
+            "Group"
+        ]
+    },
+    {
         "title": "Dancing Queen",
         "artist": "ABBA",
         "releaseYear": 1976,
@@ -4775,6 +4794,25 @@
             "Group"
         ],
         "id": "3f5b6c52-9e0b-4650-b4bd-2893d7a58e10"
+    },
+    {
+        "id": "eba485e8-06f2-4a76-a8f2-580369fe0f74",
+        "title": "The Boys Of Summer",
+        "artist": "The Ataris",
+        "releaseYear": 2003,
+        "categories": [
+            "2000s",
+            "Male Vocal"
+        ],
+        "checkedCategories": [
+            "Christmas",
+            "Hallowe'en",
+            "Musical Theatre",
+            "Male Vocal",
+            "Female Vocal",
+            "Duet",
+            "Group"
+        ]
     },
     {
         "id": "1d26e6bf-8ac9-4734-8153-3c14bc5b4981",
