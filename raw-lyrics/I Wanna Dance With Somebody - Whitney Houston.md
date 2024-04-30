@@ -58,6 +58,8 @@ I wanna feel the heat with somebody\
 Yeah, I wanna dance with somebody\
 With somebody who loves me
 
+*8 bar instrumental*
+
 Don't ya wanna dance with me baby\
 Don't ya wanna dance with me boy\
 Hey don't ya wanna dance with me baby\
@@ -66,5 +68,4 @@ With somebody who loves me
 Don't ya wanna dance, say you wanna dance, don't ya wanna dance\
 Don't ya wanna dance, say you wanna dance, don't ya wanna dance\
 Don't ya wanna dance, say you wanna dance\
-With somebody who loves me\
-Dance
+With somebody who loves me
