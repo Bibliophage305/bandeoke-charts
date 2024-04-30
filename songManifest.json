@@ -1306,6 +1306,25 @@
         "id": "82dcd210-6210-4873-83f7-1493ed7292ab"
     },
     {
+        "id": "e9686c75-1e1e-47ca-aa7d-6684e3d4aec2",
+        "title": "Don't Stop Believin'",
+        "artist": "Journey",
+        "releaseYear": 1981,
+        "categories": [
+            "1980s",
+            "Male Vocal"
+        ],
+        "checkedCategories": [
+            "Christmas",
+            "Hallowe'en",
+            "Musical Theatre",
+            "Male Vocal",
+            "Female Vocal",
+            "Duet",
+            "Group"
+        ]
+    },
+    {
         "title": "Don't Stop Movin'",
         "artist": "S Club 7",
         "releaseYear": 2001,

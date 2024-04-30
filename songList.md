@@ -120,6 +120,7 @@ Billie Jean - Michael Jackson\
 Can You Feel It - The Jacksons\
 Careless Whisper - George Michael\
 Dancing On The Ceiling - Lionel Richie\
+Don't Stop Believin' - Journey\
 Don't You (Forget About Me) - Simple Minds\
 Don't You Want Me Baby - The Human League\
 Down Under - Men At Work\

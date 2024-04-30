@@ -8,6 +8,8 @@ Just a city boy\
 Born and raised in South Detroit\
 He took the midnight train goin' anywhere
 
+*8 bars instrumental*
+
 A singer in a smokey room\
 The smell of wine and cheap perfume\
 For a smile they can share the night\
@@ -20,6 +22,8 @@ Their shadows searching in the night
 Streetlights people\
 Livin' just to find emotion\
 Hidin' somewhere in the night
+
+*4 bars instrumental*
 
 Workin' hard to get my fill\
 Everybody wants a thrill\
@@ -37,6 +41,8 @@ Their shadows searching in the night
 Streetlights people\
 Livin' just to find emotion\
 Hidin' somewhere in the night
+
+*8 bars instrumental*
 
 Don't stop believin'\
 Hold on to that feelin'\
