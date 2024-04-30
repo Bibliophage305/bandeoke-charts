@@ -5410,6 +5410,25 @@
         "id": "8b438214-8fce-4506-bd2d-1ed9a691e6f9"
     },
     {
+        "id": "da33bed5-4bbf-410a-a876-e52d568265f4",
+        "title": "When You Were Young",
+        "artist": "The Killers",
+        "releaseYear": 2006,
+        "categories": [
+            "2000s",
+            "Male Vocal"
+        ],
+        "checkedCategories": [
+            "Christmas",
+            "Hallowe'en",
+            "Musical Theatre",
+            "Male Vocal",
+            "Female Vocal",
+            "Duet",
+            "Group"
+        ]
+    },
+    {
         "title": "White Wedding",
         "artist": "Billy Idol",
         "releaseYear": 1982,
