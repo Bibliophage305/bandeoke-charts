@@ -119,6 +119,7 @@ All Night Long (All Night) - Lionel Richie\
 Billie Jean - Michael Jackson\
 Can You Feel It - The Jacksons\
 Careless Whisper - George Michael\
+Dancing On The Ceiling - Lionel Richie\
 Don't You (Forget About Me) - Simple Minds\
 Don't You Want Me Baby - The Human League\
 Down Under - Men At Work\
@@ -256,6 +257,7 @@ Star Girl - McFly\
 Take Me Out - Franz Ferdinand\
 Take Your Mama - Scissor Sisters\
 Teenage Dirtbag - Wheatus\
+The Boys Of Summer - The Ataris\
 The Middle - Jimmy Eat World\
 Toxic - Britney Spears\
 Use Somebody - Kings Of Leon\
