@@ -289,6 +289,7 @@ Forget You - CeeLo Green\
 Happy - Pharrell Williams\
 Hello - Adele\
 Ho Hey - The Lumineers\
+Hold Me While You Wait - Lewis Capaldi\
 Impossible - James Arthur\
 Juice - Lizzo\
 Just The Way You Are - Bruno Mars\
